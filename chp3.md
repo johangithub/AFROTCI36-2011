@@ -14,7 +14,9 @@
 
 ----
 
-#### 3.3.{#3_3} Scholarship Authorization. The AFROTC scholarship program is authorized by Title 10, United States Code, Section 2107, Financial Assistance Program for Specially Selected Members, amendments to 10 U.S.C. 2107, and annual National Defense Authorization Acts. Guidance for scholarship authorizations by academic specialty is provided by the Air Force in response to officer production needs.
+#### 3.3.{#3_3} Scholarship Authorization.
+
+The AFROTC scholarship program is authorized by Title 10, United States Code, Section 2107, Financial Assistance Program for Specially Selected Members, amendments to 10 U.S.C. 2107, and annual National Defense Authorization Acts. Guidance for scholarship authorizations by academic specialty is provided by the Air Force in response to officer production needs.
 
 ----
 
@@ -52,7 +54,9 @@
 
 ----
 
-#### 3.6.{#3_6} Scholarship Grade Point Average (GPA) Requirements. Cadets must have a TGPA and CGPA of 2.5 or higher to be nominated for and to activate a scholarship (Exception: 4- year HSSP cadets activating scholarship the freshman year without a college GPA yet). After scholarship activation, cadets must maintain a 2.5 TGPA to remain in good academic standing. If TGPA falls below 2.5, award a conditional event (CE) (reference Table 4.2 of this instruction).
+#### 3.6.{#3_6} Scholarship Grade Point Average (GPA) Requirements.
+
+Cadets must have a TGPA and CGPA of 2.5 or higher to be nominated for and to activate a scholarship (Exception: 4- year HSSP cadets activating scholarship the freshman year without a college GPA yet). After scholarship activation, cadets must maintain a 2.5 TGPA to remain in good academic standing. If TGPA falls below 2.5, award a conditional event (CE) (reference Table 4.2 of this instruction).
 
 ----
 
@@ -230,13 +234,17 @@
 
 ----
 
-#### 3.14.{#3_14} Medical Waiver Procedures. HQ AETC/SGPS is the waiver authority for all AFROTC physical exams, including scholarship exams. DoDMERB may automatically process a disqualified scholarship physical for waiver based on guidance from AETC/SGPS unless the applicant declines waiver consideration.
+#### 3.14.{#3_14} Medical Waiver Procedures.
+
+HQ AETC/SGPS is the waiver authority for all AFROTC physical exams, including scholarship exams. DoDMERB may automatically process a disqualified scholarship physical for waiver based on guidance from AETC/SGPS unless the applicant declines waiver consideration.
 
 ----
 
 #### 3.15.{#3_15} In-College Scholarship Program (ICSP).
 
-##### 3.15.1.{#3_15_1} The ICSP is designed to help AFROTC meet officer production goals. ICSP is flexible by design, allowing AFROTC to tailor programs to meet specific officer production needs. The availability of in-college scholarships and incentives is directly linked to production goals, higher headquarters-directed budget considerations and the number of annual scholarship activations from the HSSP and enlisted commissioning programs. The ICSP consists of a series of discrete, computer-based, order of merit-driven selection boards in which nominated cadets compete. With the exception of the Commander's In-College Scholarship (CICS), cadets compete in the ICSP on a national basis. Annually, the AFROTC/CC will determine which, to what extent, and with what constraints ICSP programs will be active. Possible ICSP programs include Express Scholarship Program, Foreign Language Scholarship Program, Historically Black Colleges and Universities Scholarship Program, Hispanic Serving Institution Scholarship Program, Nurse Scholarship Program and Commander's Program (Two-Year Detachments). Once contracted, cadets are no longer eligible for ICSP programs.
+##### 3.15.1.{#3_15_1} The ICSP is designed to help AFROTC meet officer production goals.
+
+ICSP is flexible by design, allowing AFROTC to tailor programs to meet specific officer production needs. The availability of in-college scholarships and incentives is directly linked to production goals, higher headquarters-directed budget considerations and the number of annual scholarship activations from the HSSP and enlisted commissioning programs. The ICSP consists of a series of discrete, computer-based, order of merit-driven selection boards in which nominated cadets compete. With the exception of the Commander's In-College Scholarship (CICS), cadets compete in the ICSP on a national basis. Annually, the AFROTC/CC will determine which, to what extent, and with what constraints ICSP programs will be active. Possible ICSP programs include Express Scholarship Program, Foreign Language Scholarship Program, Historically Black Colleges and Universities Scholarship Program, Hispanic Serving Institution Scholarship Program, Nurse Scholarship Program and Commander's Program (Two-Year Detachments). Once contracted, cadets are no longer eligible for ICSP programs.
 
 ##### 3.15.2.{#3_15_2} Prior to nomination, detachments will:
 
@@ -246,7 +254,9 @@
 
 + 3.15.2.3. Nominate for applicable scholarship in WINGS. This requirement also applies to walk-on nominees for ICSP Phase 2.
 
-##### 3.15.3.{#3_15_3} Withdrawing Nomination or Offer. Detachments will monitor performance between nomination and activation. Instruct nominees to inform detachment personnel of anything that may affect their scholarship eligibility or activation. If, at any time during this period, a nominee or selectee fails to maintain eligibility and activation standards, withdraw the nomination or offer. Document the withdrawal on an AFROTC Form 16 and update WINGS.
+##### 3.15.3.{#3_15_3} Withdrawing Nomination or Offer.
+
+Detachments will monitor performance between nomination and activation. Instruct nominees to inform detachment personnel of anything that may affect their scholarship eligibility or activation. If, at any time during this period, a nominee or selectee fails to maintain eligibility and activation standards, withdraw the nomination or offer. Document the withdrawal on an AFROTC Form 16 and update WINGS.
 
 ----
 
@@ -306,7 +316,9 @@
 
 ----
 
-#### 3.18.{#3_18} In-College Scholarship Program (ICSP) Phases 1 and 2. Nominees for the ICSP boards will normally compete for 2-, 2.5-, 3-, or 3.5-year scholarships.
+#### 3.18.{#3_18} In-College Scholarship Program (ICSP) Phases 1 and 2.
+
+Nominees for the ICSP boards will normally compete for 2-, 2.5-, 3-, or 3.5-year scholarships.
 
 ----
 
@@ -340,7 +352,9 @@
 
 ----
 
-#### 3.21.{#3_21} Express Scholarship Program (EXSP). EXSP is a computer-based, order of merit-driven selection board in which nominated cadets compete on a national basis. EXSP is driven by critical Air Force accession requirements and may be suspended at any time. AFROTC/RRU will announce the requirements, applicable academic majors, and deadlines via ARMS.
+#### 3.21.{#3_21} Express Scholarship Program (EXSP).
+
+EXSP is a computer-based, order of merit-driven selection board in which nominated cadets compete on a national basis. EXSP is driven by critical Air Force accession requirements and may be suspended at any time. AFROTC/RRU will announce the requirements, applicable academic majors, and deadlines via ARMS.
 
 + 3.21.1.1. Express scholarships may be tied to an FY, as well as an academic major or officer accession shortfall, for example, CSO or RPA.
 
@@ -655,7 +669,9 @@ $1,000/semester or $666/quarter, no exceptions. If a cadet is unable/ineligible 
 
 ----
 
-#### 3.36.{#3_36} Textbook Reimbursement Entitlement for Scholarship Program. Cadets on scholarship will receive an annual flat rate for textbooks. AFROTC/RR will determine the flat-rate textbook amounts each academic year and any changes in rates will be forwarded to the detachments by separate letter. NOTE: The annual flat rate amount for textbooks will be paid each term. Cadets attending semester schools will receive one-half of the annual amounts each term. Cadets attending quarter schools will receive one-third of the annual amount each term. Flat rate textbook reimbursements will not be made for summer terms. Textbook payments are not authorized when the scholarship is not active (e.g., suspended or completed). Procedures for textbook reimbursement are outlined in the WINGS User Guide.
+#### 3.36.{#3_36} Textbook Reimbursement Entitlement for Scholarship Program.
+
+Cadets on scholarship will receive an annual flat rate for textbooks. AFROTC/RR will determine the flat-rate textbook amounts each academic year and any changes in rates will be forwarded to the detachments by separate letter. NOTE: The annual flat rate amount for textbooks will be paid each term. Cadets attending semester schools will receive one-half of the annual amounts each term. Cadets attending quarter schools will receive one-third of the annual amount each term. Flat rate textbook reimbursements will not be made for summer terms. Textbook payments are not authorized when the scholarship is not active (e.g., suspended or completed). Procedures for textbook reimbursement are outlined in the WINGS User Guide.
 
 ----
 
@@ -671,11 +687,15 @@ $1,000/semester or $666/quarter, no exceptions. If a cadet is unable/ineligible 
 
 ----
 
-#### 3.38.{#3_38} Non-Duplication of Financial Aid Programs. Most federal assistance programs have a duplication clause that prohibits receipt of educational benefits from more than one source. A scholarship selectee receiving such benefits should check with the agency concerned to determine whether the duplication clause applies. Students may receive scholarship entitlements and Veterans Administration benefits simultaneously. Scholarship recipients should inform their financial aid offices that they are on AFROTC scholarships. If tuition, fees, or any part thereof are paid by any source, (e.g., a state scholarship that will pay tuition), AFROTC will not duplicate payment.
+#### 3.38.{#3_38} Non-Duplication of Financial Aid Programs.
+
+Most federal assistance programs have a duplication clause that prohibits receipt of educational benefits from more than one source. A scholarship selectee receiving such benefits should check with the agency concerned to determine whether the duplication clause applies. Students may receive scholarship entitlements and Veterans Administration benefits simultaneously. Scholarship recipients should inform their financial aid offices that they are on AFROTC scholarships. If tuition, fees, or any part thereof are paid by any source, (e.g., a state scholarship that will pay tuition), AFROTC will not duplicate payment.
 
 ----
 
-#### 3.39.{#3_39} 45-Day Rule. The 45-day requirement applies only to the fall term. All scholarship tuition, fees, and textbooks must be billed against the next fiscal year as of the 45th calendar day of institutional classes. Scholarship cadets must be enrolled in AFROTC and in an active status at close of business on the 45th day of classes (at each school) or after but not later than the last day of the term at the institution of attendance in order for AFROTC to pay tuition and fees. The 45-day rule applies to each institution a cadet attends if the institution charges for the course or courses. Scholarships that have not been activated by the last day of the term will be withdrawn, unless a prior waiver is obtained from HQ AFROTC/RRFA.
+#### 3.39.{#3_39} 45-Day Rule.
+
+The 45-day requirement applies only to the fall term. All scholarship tuition, fees, and textbooks must be billed against the next fiscal year as of the 45th calendar day of institutional classes. Scholarship cadets must be enrolled in AFROTC and in an active status at close of business on the 45th day of classes (at each school) or after but not later than the last day of the term at the institution of attendance in order for AFROTC to pay tuition and fees. The 45-day rule applies to each institution a cadet attends if the institution charges for the course or courses. Scholarships that have not been activated by the last day of the term will be withdrawn, unless a prior waiver is obtained from HQ AFROTC/RRFA.
 
 ----
 

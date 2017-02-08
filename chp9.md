@@ -54,12 +54,13 @@ This chapter explains the categorization procedures for rated AFSCs and provides
 
 + 9.2.7.3. Candidates must meet the AFOQT minimum scores shown in Table 9.1. These scores are not waiverable for rated duty, even if previously waived for enlistment.
 
-Table 9.1. Minimum AFOQT Scores (non-waiverable for rated duty).
- Pilot CSO (Nav) ABM Verbal Quantitative
-Pilot 25 15 10
-RPA 25 15 10
-CSO 25 15 10
-ABM 25 15 10
+##### Table 9.1.{#table9_1} Minimum AFOQT Scores (non-waiverable for rated duty).
+||Pilot|CSO (Nav)| ABM|Verbal|Quantitative|
+|---|---|---|---|---|---|
+|Pilot | 25| | |15|10|
+|RPA |25| | | 15|10|
+|CSO | |25| | 15|10|
+|ABM | | |25|15|10|
 
 + 9.2.7.4. Pilot and RPA candidates must complete the TBAS so a Pilot Candidate Selection Model (PCSM) score can be computed prior to categorization. TBAS testing requirements are outlined in AFI36-2605, Air Force Military Personnel Testing System. Only two test administrations are authorized per individual. Do not administer a retest (second testing) until at least 180 days have passed from the date of initial testing. The detachment TBAS monitor must inform cadets who only one TBAS retest is authorized. The PCSM office will automatically invalidate third and subsequent TBAS attempts. Similar to the administration of the AFOQT, TBAS data from the most recent test will be used as the score of record for those individuals with more than one set of scores. This is not waiverable.
 
@@ -73,19 +74,26 @@ ABM 25 15 10
 
 + 9.2.8.1. The Detachment/CC will assign each individual a DCR based on the entire FY commissioning class. As with PSP selection, consider the cadet's potential based on performance as a cadet before assigning the DCR. WINGS will compute the RSS based upon the DCR and class size.
 
-Table 9.2. Rated Order of Merit.
-FACTOR WEIGHT
-AFOQT-Nav (Note 2) 40%
-PCSM (Note 2) 40%
-AFOQT-ABM 40%
-RSS (Note 1) TBD
-PFA TBD
-FT TBD
-Cumulative GPA TBD
+##### Table 9.2.{#table9_2} Rated Order of Merit.
+|FACTOR|WEIGHT|
+|---|---|
+|AFOQT-Nav (Note 2)| 40% |
+|PCSM (Note 2)| 40% |
+|AFOQT-ABM| 40% |
+|RSS (Note 1) |TBD |
+|PFA |TBD |
+|FT |TBD |
+|Cumulative GPA | TBD|
+
 Notes:
+
 1. The formula for calculating RSS and FT is (10*((1-R/C)+0.5/C)) where R=DCR and C=Class Size
+
 2. The PCSM is used for categorization processing if applying for pilot and RPA. The AFOQT- Nav is used for categorization processing if applying for CSO. The AFOQT-ABM is used for categorization processing if applying for ABM.
+
 3. AFROTC/CC will determine the weights and the OM factors.
+
+
 
 + 9.2.8.2. Nominate rated candidates to AFROTC/RRFP by entering categorization data into WINGS prior to nomination cut-off. WINGS will compute each candidate's OM score using the most current information available. Once the OM is calculated and the applicant has met the categorization process, the OM will not be adjusted.
 

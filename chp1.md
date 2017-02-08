@@ -69,9 +69,7 @@
 
 + 1.2.5.3. Reviews detachment waiver and investigative disenrollment packages prior to submission to HQ/AFROTC.
 
-+ 1.2.5.4. Validate which host institutions within their region qualify for military institution exemption, and make written notification to Detachment/CC at these institutions. A military institution is either a senior military college (SMC) or university
-
-that conducts its education program within a military training environment on or near its campus. Such locations will require cadets to wear uniforms and perform activities (e.g., drill and ceremonies) not directly associated with AFROTC, but still within specific regulations. As such, exemptions should be considered regarding wear of the AFROTC cadet uniform and other activities as necessary
++ 1.2.5.4. Validate which host institutions within their region qualify for military institution exemption, and make written notification to Detachment/CC at these institutions. A military institution is either a senior military college (SMC) or university that conducts its education program within a military training environment on or near its campus. Such locations will require cadets to wear uniforms and perform activities (e.g., drill and ceremonies) not directly associated with AFROTC, but still within specific regulations. As such, exemptions should be considered regarding wear of the AFROTC cadet uniform and other activities as necessary
 
 	+ 1.2.5.4.1. Wear of the AFROTC uniform should be highly encouraged and coordinated between the host institution and detachment. NOTE: SMC cadets are only authorized issue of the AFROTC uniform for FT and/or PDT purposes.
 

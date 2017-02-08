@@ -881,9 +881,13 @@ The POC consists of AS300 and AS400 classes and LLAB. The POC is the third and f
 
 #### 4.30.{#4_30} Cadet Counseling Requirements and Term Reviews.
 
-##### 4.30.4.{#4_30_4} General. Counseling provides the means to review performance and to ensure a cadet understands retention and scholarship standards, scholarship entitlements (if applicable), and the consequences should these standards not be met. These sessions provide an opportunity to mentor the cadet, identify positive performance areas, review deficiencies in the cadet's performance as they relate to contracting eligibility or scholarships, and to motivate the cadet to take action to improve performance. Counseling provides the necessary documentation trail should adverse actions such as dismissal (det drop), scholarship suspension, termination, or disenrollment from AFROTC become necessary. Use the AFROTC Form 16 to document each counseling session. Term reviews are counseling.
+##### 4.30.4.{#4_30_4} General.
 
-##### 4.30.5.{#4_30_5} For any situation that could adversely affect a cadet's continuation in the program, or place a cadet's scholarship or stipend in jeopardy, the detachment must take immediate action to notify and counsel the cadet. Use all means available to contact the student and document these attempts in the UPRG. It is especially important when issuing a Conditional Event to counsel immediately so the rehabilitative qualities can take effect and government financial liability for tuition is suspended immediately if warranted. A CE for poor grades in the spring term is of diminished value if the detachment waits until fall term counseling to tell the cadet that their scholarship is at risk if the fall term grades are poor. Detachments also cannot wait until the 45th day of the fall term or the 1st day of the spring term to tell the cadet that they will not be funded that term due to multiple CEs, substandard GPA, or suspended scholarship. Pecuniary liability commences on the 45th day of the fall term and the first day of winter/spring terms.
+Counseling provides the means to review performance and to ensure a cadet understands retention and scholarship standards, scholarship entitlements (if applicable), and the consequences should these standards not be met. These sessions provide an opportunity to mentor the cadet, identify positive performance areas, review deficiencies in the cadet's performance as they relate to contracting eligibility or scholarships, and to motivate the cadet to take action to improve performance. Counseling provides the necessary documentation trail should adverse actions such as dismissal (det drop), scholarship suspension, termination, or disenrollment from AFROTC become necessary. Use the AFROTC Form 16 to document each counseling session. Term reviews are counseling.
+
+##### 4.30.5.{#4_30_5} For any situation that could adversely affect a cadet's continuation in the program, or place a cadet's scholarship or stipend in jeopardy, the detachment must take immediate action to notify and counsel the cadet.
+
+Use all means available to contact the student and document these attempts in the UPRG. It is especially important when issuing a Conditional Event to counsel immediately so the rehabilitative qualities can take effect and government financial liability for tuition is suspended immediately if warranted. A CE for poor grades in the spring term is of diminished value if the detachment waits until fall term counseling to tell the cadet that their scholarship is at risk if the fall term grades are poor. Detachments also cannot wait until the 45th day of the fall term or the 1st day of the spring term to tell the cadet that they will not be funded that term due to multiple CEs, substandard GPA, or suspended scholarship. Pecuniary liability commences on the 45th day of the fall term and the first day of winter/spring terms.
 
 ##### 4.30.6.{#4_30_6} Detachment personnel MUST review grades at the end of each term (quarter or semester) to ensure AFROTC academic standards are met and award appropriate CEs during a counseling session. Do not wait for Midterm Counseling. See previous paragraph regarding adverse situations.
 
@@ -899,7 +903,9 @@ The POC consists of AS300 and AS400 classes and LLAB. The POC is the third and f
 
 ##### 4.30.9.{#4_30_9} Ensure each cadet currently in a SAF-approved 5-year major, who obtains approval of a major change to a non-SAF-approved 5-year major, understands that stipend is restricted to 600 days in the POC and, therefore, will possibly terminate before completion of degree.
 
-##### 4.30.10.{#4_30_10} Midterm reviews. Officers must counsel each contract cadet at least once each fall term and at least once each winter or spring term. Term counseling for non-contract cadets is highly encouraged but not mandatory. The thoroughness and accuracy of term reviews are important in determining a cadet's academic progression. Complete midterm reviews by the midpoint of the term. If midterm grades are accessible, perform counseling within two weeks after grades are received.
+##### 4.30.10.{#4_30_10} Midterm reviews.
+
+Officers must counsel each contract cadet at least once each fall term and at least once each winter or spring term. Term counseling for non-contract cadets is highly encouraged but not mandatory. The thoroughness and accuracy of term reviews are important in determining a cadet's academic progression. Complete midterm reviews by the midpoint of the term. If midterm grades are accessible, perform counseling within two weeks after grades are received.
 
 + 4.30.10.1. During midterm reviews for all cadets, officers will:
 
@@ -1011,7 +1017,9 @@ Cadets must maintain scholarship retention standards in order to be in good acad
 
 #### 4.33.{#4_33} Date of Graduation (DOG) and Date of Commission (DOC).
 
-##### 4.33.1.{#4_33_1} Cadets must commission in the fiscal year (FY) stated on their AF Form 1056. When a cadet cannot meet a scheduled DOG and DOC for any reason, the detachment must take immediate action to change the DOG and DOC or investigate for disenrollment. NOTE: Detachments must notify AFPC when a DOC/DOG change occurs after submission of the AFROTC Form 53 (reference Chapter 12).
+##### 4.33.1.{#4_33_1} Cadets must commission in the fiscal year (FY) stated on their AF Form 1056.
+
+When a cadet cannot meet a scheduled DOG and DOC for any reason, the detachment must take immediate action to change the DOG and DOC or investigate for disenrollment. NOTE: Detachments must notify AFPC when a DOC/DOG change occurs after submission of the AFROTC Form 53 (reference Chapter 12).
 
 ##### 4.33.2.{#4_33_2} Prior to submitting a contracted cadet for an EA, the Detachment Commander may approve a DOC/DOG change into a new fiscal year provided doing so does not put the cadet in completed status for more than one year and does not change the FY of a major predicated on the specific FY (e.g., EXPRESS scholarships). During this same period, Detachment Commanders may approve an initial change from an 0GYY (General Studies) scholarship, awarded through ICSP, to a specific major as declared by the cadet. Detachment Commanders will ensure that WINGS reflects the correct DOC/DOG or major prior to submitting the cadet for an EA. Post-PSP DOC/DOG changes to a new fiscal year require an AFROTC Form 22 to AFROTC/RRFP. Once a major is changed from 0GYY to a specific major, any additional major changes must comply with procedures established below. For approved changes, update the AF Form 1056 change page to reflect the new major and/or FY (see Attachment 17).
 
@@ -1039,7 +1047,9 @@ Cadets must maintain scholarship retention standards in order to be in good acad
 
 + 4.34.1.8. Detachments must notify AFPC when a DOC/DOG change occurs after submission of the AFROTC Form 53 (reference Chapter 12).
 
-##### 4.34.2.{#4_34_2} Scholarship Cadet Academic Major Changes. This section applies only to scholarship cadets and selectees. All HSSP scholarship cadets must declare their academic major NLT the first day of their AS200 classes. Technical academic majors (as indicated on the original scholarship offer) must remain technical. Non-technical majors can remain non- technical or may be switched to technical.
+##### 4.34.2.{#4_34_2} Scholarship Cadet Academic Major Changes.
+
+This section applies only to scholarship cadets and selectees. All HSSP scholarship cadets must declare their academic major NLT the first day of their AS200 classes. Technical academic majors (as indicated on the original scholarship offer) must remain technical. Non-technical majors can remain non- technical or may be switched to technical.
 
 + 4.34.2.1. When they wish to request an academic major change, scholarship selectees fall into four main categories. Follow the procedures based on the appropriate category.
 
@@ -1121,11 +1131,17 @@ Figure 4.4. Term Abroad Program Scholarship Cadet Statement of Understanding.
 
 ##### 4.38.2.{#4_38_2} Detachment Commanders should issue CEs in an effort to adjust cadet behavior and to warn the cadet they are not meeting AFROTC academic or military retention standards. Issue CEs to contract and non-contract cadets per the guidance below. Counsel the cadet via AFROTC Form 16 on the deficiency that resulted in the CE. CEs may be issued any time, regardless of term, a cadet fails to meet a retention standard or if the Detachment Commander deems warranted (e.g., excessive counseling). If a cadet fails to maintain two separate retention factors in a single term, document each incident on a separate AFROTC Form 16. These count as two separate CEs. Reference Tables 4.1 and 4.2 for matrix and schedule for CEs.
 
-+ 4.38.2.1. Contract Cadet CEs. Contract cadets (scholarship and non-scholarship) who fail to maintain retention standards must receive a CE. Scholarship termination or initiation of a disenrollment investigation does not eliminate the requirement to issue the CE. A decision to retain a cadet receiving a fourth, or additional CE does not diminish AFROTC's right to cite the deficiencies as grounds for subsequent disenrollment. ACADEMIC CE EXCEPTION: If a cadet receives more than one failing grade (to include "I" incomplete) in a given term or the term GPA drops below 2.5 as a result of the failing grades in that term, count as only one CE. On the other hand, an "F" grade and less than full-time student status are separate failures and warrant two CEs.
++ 4.38.2.1. Contract Cadet CEs.
 
-+ 4.38.2.2. Non-Contract Cadet CEs. Detachment/CCs reserve the option to issue CEs to non-contract cadets. This should be considered the most severe warning/counseling for a non-contract cadet. Detachment Commander-issued CEs to non-contract cadets should not be included in the count of CEs that initiate the disenrollment process.
+Contract cadets (scholarship and non-scholarship) who fail to maintain retention standards must receive a CE. Scholarship termination or initiation of a disenrollment investigation does not eliminate the requirement to issue the CE. A decision to retain a cadet receiving a fourth, or additional CE does not diminish AFROTC's right to cite the deficiencies as grounds for subsequent disenrollment. ACADEMIC CE EXCEPTION: If a cadet receives more than one failing grade (to include "I" incomplete) in a given term or the term GPA drops below 2.5 as a result of the failing grades in that term, count as only one CE. On the other hand, an "F" grade and less than full-time student status are separate failures and warrant two CEs.
 
-##### 4.38.3.{#4_38_3} HQ-Directed CE. HQ AFROTC can direct a CE to contract and non-contract cadets. If HQ AFROTC directs a CE to a non-contract cadet, it should not be included in the count of CEs that begins the disenrollment process.
++ 4.38.2.2. Non-Contract Cadet CEs.
+
+Detachment/CCs reserve the option to issue CEs to non-contract cadets. This should be considered the most severe warning/counseling for a non-contract cadet. Detachment Commander-issued CEs to non-contract cadets should not be included in the count of CEs that initiate the disenrollment process.
+
+##### 4.38.3.{#4_38_3} HQ-Directed CE.
+
+HQ AFROTC can direct a CE to contract and non-contract cadets. If HQ AFROTC directs a CE to a non-contract cadet, it should not be included in the count of CEs that begins the disenrollment process.
 
 ##### 4.38.4.{#4_38_4} Conditional Probation. HQ AFROTC may direct a CE with probation period for contract and non-contract cadets.
 
@@ -1133,11 +1149,17 @@ Figure 4.4. Term Abroad Program Scholarship Cadet Statement of Understanding.
 
 + 4.38.4.2. Should a contract cadet violate the terms of probation, investigate for disenrollment.
 
-##### 4.38.5.{#4_38_5} Documentation. Use the AFROTC Form 16 to counsel the cadet and to document the award of the CE. Update WINGS. The date of event is the effective date of the CE unless otherwise directed. If a retention failure occurs or is identified after the last day of host institution classes, then the effective date will be the date the grade/CE was earned. If additional time is required for documenting or determining the requirement for a CE, the effective date will be the date of the event that led to the CE.
+##### 4.38.5.{#4_38_5} Documentation.
 
-##### 4.38.6.{#4_38_6} Timing. For maximum rehabilitative effect, CEs should be awarded and documented as soon after earned as possible. The rehabilitative effect is reduced significantly if a cadet is not given a CE for spring term grades until November during the fall term mid-term counseling. It is especially critical when a scholarship suspension (no funding) will result from the CE.
+Use the AFROTC Form 16 to counsel the cadet and to document the award of the CE. Update WINGS. The date of event is the effective date of the CE unless otherwise directed. If a retention failure occurs or is identified after the last day of host institution classes, then the effective date will be the date the grade/CE was earned. If additional time is required for documenting or determining the requirement for a CE, the effective date will be the date of the event that led to the CE.
 
-##### 4.38.7.{#4_38_7} Rescinding a CE. Rescission of CEs is an absolute exception and rarely warranted. Region Commanders may rescind a CE only when it was erroneously issued or when serious mitigating circumstances are revealed after the CE is issued. This is specifically NOT for CEs that change in nature after the initial characterization of the event. (I.E. DUI pleads down to lesser offense)
+##### 4.38.6.{#4_38_6} Timing.
+
+For maximum rehabilitative effect, CEs should be awarded and documented as soon after earned as possible. The rehabilitative effect is reduced significantly if a cadet is not given a CE for spring term grades until November during the fall term mid-term counseling. It is especially critical when a scholarship suspension (no funding) will result from the CE.
+
+##### 4.38.7.{#4_38_7} Rescinding a CE.
+
+Rescission of CEs is an absolute exception and rarely warranted. Region Commanders may rescind a CE only when it was erroneously issued or when serious mitigating circumstances are revealed after the CE is issued. This is specifically NOT for CEs that change in nature after the initial characterization of the event. (I.E. DUI pleads down to lesser offense)
 
 ----
 
@@ -1145,27 +1167,29 @@ Figure 4.4. Term Abroad Program Scholarship Cadet Statement of Understanding.
 
 ##### 4.39.1.{#4_39_1} HQ AFROTC may direct probationary periods with waiver approvals (for example, with a civil involvement waiver approval) or with a disenrollment investigation. The terms of the probation will be outlined with the HQ AFROTC response. For probation resulting from a disenrollment investigation, see Chapter 11.
 
-##### 4.39.2.{#4_39_2} Probation Offer. A cadet offered waiver approval with probation is allowed to continue in the AFROTC program. The cadet must agree to and meet the terms of the probation. Counsel the cadet on their probationary requirements via AFROTC Form 16. Failure to meet the terms of the probation will result in dismissal from the AFROTC program for non-contract cadets and a disenrollment for contract cadets. The terms of the probation can include, but are not limited to, a period of time for watching behavior, civil involvement or alcohol restrictions, alcohol/drug/sexual awareness training class to be paid at the students expense, loss of previously awarded competitive selections (e.g., rated categorization), and/or any other action AFROTC believes will help change or improve cadet behavior.
+##### 4.39.2.{#4_39_2} Probation Offer.
 
-##### 4.39.3.{#4_39_3} Non-Contract Cadet Probation. Should a non-contract cadet violate the terms of probation for any reason, dismiss the cadet and withdraw the EA (if awarded). Accomplish "Det Drop" in WINGS. HQ AFROTC will not consider additional waiver requests for non- contract cadets who violate the terms of the probation.
+A cadet offered waiver approval with probation is allowed to continue in the AFROTC program. The cadet must agree to and meet the terms of the probation. Counsel the cadet on their probationary requirements via AFROTC Form 16. Failure to meet the terms of the probation will result in dismissal from the AFROTC program for non-contract cadets and a disenrollment for contract cadets. The terms of the probation can include, but are not limited to, a period of time for watching behavior, civil involvement or alcohol restrictions, alcohol/drug/sexual awareness training class to be paid at the students expense, loss of previously awarded competitive selections (e.g., rated categorization), and/or any other action AFROTC believes will help change or improve cadet behavior.
 
-##### 4.39.4.{#4_39_4} Contract Cadet Probation. Only in rare circumstances will a contract cadet be granted probation with a waiver request. For contract cadets, a disenrollment investigation will be directed and probation may be the outcome of that investigation. For probation resulting from a disenrollment investigation, see Chapter 11.
+##### 4.39.3.{#4_39_3} Non-Contract Cadet Probation.
+
+Should a non-contract cadet violate the terms of probation for any reason, dismiss the cadet and withdraw the EA (if awarded). Accomplish "Det Drop" in WINGS. HQ AFROTC will not consider additional waiver requests for non- contract cadets who violate the terms of the probation.
+
+##### 4.39.4.{#4_39_4} Contract Cadet Probation.
+
+Only in rare circumstances will a contract cadet be granted probation with a waiver request. For contract cadets, a disenrollment investigation will be directed and probation may be the outcome of that investigation. For probation resulting from a disenrollment investigation, see Chapter 11.
 
 Table 4.1. Schedule of Scholarship/Disenrollment Actions for CEs.
 The schedule below provides follow-on actions REQUIRED by the detachment based on CEs accumulated by a contract cadet's failure to meet military and/or academic standard(s). This table should be used in conjunction with Table 4.2. Depending on the severity of the behavior that prompted the issuance of the CE even if this is the cadet's first CE, the Detachment Commander or HQ AFROTC (if the Detachment Commander requested a waiver), may direct dismissal or a disenrollment investigation.
-Number Contract GMC Cadet POC Cadet
-First CE (in GMC
-or POC) No suspension required (if reason for CE is severe, Detachment Commander can use discretion and suspend scholarship).
 
-EXCEPTION: Suspend scholarship for cadets who receive a TGPA below 2.0 during any term of scholarship. No suspension required (if reason for CE is severe, Detachment Commander can use discretion and suspend scholarship).
-
-EXCEPTION: Suspend scholarship for cadets who receive a TGPA below 2.0 during any term of scholarship Second CE (in GMC
-or POC) Suspend scholarship. Suspend scholarship.
-Third CE (in GMC
-or in POC) Terminate scholarship; investigate for disenrollment Terminate scholarship; investigate for disenrollment
-Two Total CEs Suspend Scholarship
-Three Total CEs Terminate Scholarship
-Four Total CEs Investigate for disenrollment.
+|Number|Contract GMC Cadet|POC Cadet|
+|---|---|---|
+|First CE (in GMC or POC)|No suspension required (if reason for CE is severe, Detachment Commander can use discretion and suspend scholarship). EXCEPTION: Suspend scholarship for cadets who receive a TGPA below 2.0 during any term of scholarship.| No suspension required (if reason for CE is severe, Detachment Commander can use discretion and suspend scholarship). EXCEPTION: Suspend scholarship for cadets who receive a TGPA below 2.0 during any term of scholarship|
+|Second CE (in GMC or POC)| Suspend scholarship. | Suspend scholarship.|
+|Third CE (in GMC or in POC)| Terminate scholarship; investigate for disenrollment| Terminate scholarship; investigate for disenrollment|
+|Two Total CEs |Suspend Scholarship|Suspend Scholarship|
+|Three Total CEs |Terminate Scholarship|Terminate Scholarship|
+|Four Total CEs| Investigate for disenrollment. |Investigate for disenrollment.|
 
 ----
 
@@ -1206,3 +1230,36 @@ Four Total CEs Investigate for disenrollment.
 ##### 4.42.3.{#4_42_3} Do not send cadets to FT if they are over their BMI and body fat at the end of the spring term prior to FT. Contact AFROTC/DO to remove their FT assignment and AFROTC/RRFA to remove their EA. No waivers will be granted.
 
 ##### 4.42.4.{#4_42_4} Contract cadets are responsible for maintaining BMI and/or body fat standards. Cadets must meet Air Force BMI or body fat standards in order to activate and/or retain an AFROTC scholarship, meet the PSP selection board, to attend and complete FT, and to remain in good standing as a member of the POC through commissioning.
+
+##### Table 4.2.{#table4_2} CE Decision Matrix for Substandard Performance.
+|Rule | If cadet’s academic or military training performance reflects: | …then the Detachment Commander, as a minimum, will:|
+|---|---|---|
+|1 |Receipt of a “D” or “F” in any AS course (any term, including LLAB)| Suspend scholarship, award a CE, and dismiss (non-contract cadet) or investigate for disenrollment (contract cadet). If cadet has an EA, withdraw it and notify RRFA. |
+|2| TGPA less than 2.5 | Award CE (Reference Table 4.1 and Note 1 of this table).|
+|3| TGPA below 2.0 during any term for all scholarship cadets | Award CE and suspend scholarship for one term. DO NOT wait for the second term to suspend scholarship.|
+|4| An “F” or “F equivalent” (e.g., “U” (unsatisfactory), “WF” (withdrawal, failing), “N” (no pass), or “NP” (not pass), or institutional equivalent). See para 4.32.1.4.2| Award CE (Reference Table 4.1 and Note 1 of this table).|
+|5| Any grade which requires course repeat for degree credit See para 4.32.1.4.3.| Award CE (Reference Table 4.1 and Note 1 of this table).|
+|6| An incomplete grade | Award CE IAW para 4.32.1.4.4 (Reference Table 4.1 and Note 1 of this table). |
+|7| Less than full-time status (not required in final term) See para 4.32.1.4.12. | Award CE (Reference Table 4.1 and Note 1 of this table).|
+|8| Over BMI and Body Fat |Award CE upon initial failure. Award second CE if cadet does not meet standards within 30 days of the subsequent term dismiss (non-contract cadet) or investigate for disenrollment (contract cadet). Scholarship cadets - Temporarily inactivate upon initial failure and terminate scholarship upon subsequent failure.|
+|9| For deficiencies other than academics and BMI/Body Fat; (e.g., PFA failure, any military retention) | Award CE (Reference Table 4.1 and Note 2 of this table).|
+|10| First time Honor Code Violations for GMC cadets (excluding plagiarism) Note: The intent is to give the GMC cadets time to internalize the AF Core Values. All acts of plagiarism, however, require an investigation.| Award CE. Significant Honor Code violations warrant a disenrollment investigation (or dismissal of non-contract cadets). If this is the second integrity violation, investigate for disenrollment (or dismiss non-contract cadet).|
+|10A| Honor Code Violations for POC cadets (including plagiarism)| Award CE and investigate for disenrollment (or dismiss non-contract cadet). This includes POC cadet walk-ons.|
+|11|Significant Civil Involvement|Award CE. Note: Based on the civil involvement, RRF waiver may be required. Additionally, RR may direct a disenrollment investigation.|
+|12| First MIP if event occurred while the cadet was enrolled in the AFROTC program and waiverable by Detachment Commander. See paragraph 4.6| Award CE.|
+|13A| DUI, if outside waiverable limits| Award CE and investigate for disenrollment (or dismiss non-contract cadet).|
+|13B| DUI, if within the waiverable limits| Award CE and submit to AFROTC/RRFA for waiver.|
+|14| Providing alcohol to a minor, taking no action to stop minors from drinking at functions under the individuals control| Award CE and submit to AFROTC/RRFA for waiver.|
+|15| Failure to report Civil Involvement within 72 hours. | Detachment Commander should, but is not required to, award CE.|
+|16| Failure to meet military retention standards as determined by Detachment Commander| Award CE. |
+|17| Changing majors without Detachment Commander or HQ AFROTC approval| Award CE.|
+|18| All contract cadets who are removed from FT with prejudice| Award CE, place in AS500 status, begin disenrollment investigation, and ensure they continue to attend LLAB until the disenrollment is resolved.| 
+|19| Failure of Commissioning QFR| Award CE.|
+
+NOTES: This table is not all-inclusive but provides guidance on the most common CEs.
+
+Note 1. If a cadet receives more than one failing grade (to include “I” incomplete) in the given term OR the TGPA drops below 2.5 as a result of failing grades in that term, only count as one CE. This rule does not apply to low TGPA and failing to maintain full-time student status, which would result in two CEs.
+
+Note 2. Detachments will not award a CE for PFA failures that occur while at FT. Detachments will not award a CE for PFA failures for 4-Yr HSSP cadets (fall semester only) unless still failing as of 31 Dec.
+
+Note 3. Do not issue a CE for summer terms unless the cadet received scholarship payment for that term.
