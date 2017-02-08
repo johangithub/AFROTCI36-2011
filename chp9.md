@@ -1,5 +1,6 @@
+#### 9.1.{#9_1} General. 
 
-#### 9.1.{#9_1} General: This chapter explains the categorization procedures for rated AFSCs and provides information pertaining to non-line AFSCs and other specialized officer career fields. The OPR for this chapter is HQ AFROTC/RRF.
+This chapter explains the categorization procedures for rated AFSCs and provides information pertaining to non-line AFSCs and other specialized officer career fields. The OPR for this chapter is HQ AFROTC/RRF.
 
 ----
 
@@ -256,11 +257,17 @@ Notes:
 
 ##### 9.5.1.{#9_5_1} The STO programs offer qualified male officers a unique opportunity for field leadership. Those interested in STO should download the current application from the "Officer Opportunities" section at http://afsoc.af.mil/specialtactics.
 
-##### 9.5.2.{#9_5_2} Career Field Description. STOs are career special operators that lead Special Tactics (ST) forces in the full spectrum of military operations. Special Tactics Squadrons (STS) consist of combat controllers (CCT), pararescuemen (PJ), special operations weathermen (SOWT), and tactical air control specialists (TACP). ST personnel are designated as combat forces assigned to Air Force Special Operations Command (AFSOC). ST core competencies include assault zone assessment, establishment, and control; combat search and rescue/personnel recovery; battlefield trauma care; terminal attack control (controlling and sequencing air strikes); and tactical weather observations and forecasting. ST forces execute a wide variety of missions such as: Direct Action, Counter-Terrorism, Foreign Internal Defense, Unconventional Warfare, Humanitarian Assistance, Coalition Support, Counter-Drug, Combat Search and Rescue, and Special Reconnaissance missions. STOs routinely operate alongside their joint special operations teammates, including members of the Army's Special Forces Groups and Ranger Regiment, the Marine Special Operations Battalions, and the Navy SEAL Teams. Operating in all climates, day or night, ST forces maintain the highest standards of physical fitness, proficiency in the use of mission specific equipment, light and heavy weapons, and demolitions.
+##### 9.5.2.{#9_5_2} Career Field Description.
 
-##### 9.5.3.{#9_5_3} Training. All candidates are required to complete the STO training pipeline. This includes the Combat Control Selection Course (4 weeks); Combat Control Operator Course (15 weeks); Army Airborne School (3 weeks); Survival, Evasion, Resistance, and Escape (SERE) School (3 weeks); Combat Control Apprentice Course (13 weeks); SCUBA School (4 weeks); Military Freefall School (4 weeks); and an additional year of advanced skills training. Many STOs will also become qualified as Joint Terminal Attack Controllers (JTAC) Instructors and Evaluators, and Static-Line and Freefall Jumpmasters.
+STOs are career special operators that lead Special Tactics (ST) forces in the full spectrum of military operations. Special Tactics Squadrons (STS) consist of combat controllers (CCT), pararescuemen (PJ), special operations weathermen (SOWT), and tactical air control specialists (TACP). ST personnel are designated as combat forces assigned to Air Force Special Operations Command (AFSOC). ST core competencies include assault zone assessment, establishment, and control; combat search and rescue/personnel recovery; battlefield trauma care; terminal attack control (controlling and sequencing air strikes); and tactical weather observations and forecasting. ST forces execute a wide variety of missions such as: Direct Action, Counter-Terrorism, Foreign Internal Defense, Unconventional Warfare, Humanitarian Assistance, Coalition Support, Counter-Drug, Combat Search and Rescue, and Special Reconnaissance missions. STOs routinely operate alongside their joint special operations teammates, including members of the Army's Special Forces Groups and Ranger Regiment, the Marine Special Operations Battalions, and the Navy SEAL Teams. Operating in all climates, day or night, ST forces maintain the highest standards of physical fitness, proficiency in the use of mission specific equipment, light and heavy weapons, and demolitions.
 
-##### 9.5.4.{#9_5_4} Application Procedures. Cadets should apply during their junior year (for a 4-year program cadet) or senior year (for 5 year program cadets). There are two selection cycles per year (fall and spring). This allows the cadet adequate time to prepare for and complete all selection requirements. AFPC will currently allow cadets classified in another career field to apply for STO prior to commissioning. See current STO application on the AFROTC website for specific application requirements.
+##### 9.5.3.{#9_5_3} Training.
+
+All candidates are required to complete the STO training pipeline. This includes the Combat Control Selection Course (4 weeks); Combat Control Operator Course (15 weeks); Army Airborne School (3 weeks); Survival, Evasion, Resistance, and Escape (SERE) School (3 weeks); Combat Control Apprentice Course (13 weeks); SCUBA School (4 weeks); Military Freefall School (4 weeks); and an additional year of advanced skills training. Many STOs will also become qualified as Joint Terminal Attack Controllers (JTAC) Instructors and Evaluators, and Static-Line and Freefall Jumpmasters.
+
+##### 9.5.4.{#9_5_4} Application Procedures.
+
+Cadets should apply during their junior year (for a 4-year program cadet) or senior year (for 5 year program cadets). There are two selection cycles per year (fall and spring). This allows the cadet adequate time to prepare for and complete all selection requirements. AFPC will currently allow cadets classified in another career field to apply for STO prior to commissioning. See current STO application on the AFROTC website for specific application requirements.
 
 ----
 
@@ -268,11 +275,17 @@ Notes:
 
 ##### 9.6.1.{#9_6_1} CROs (13DXA) are non-rated aircrew officers that lead and command personnel recovery operations. They perform duties as mission planners and provide personnel recovery (PR) expertise to command and battle staffs on recovery operations, to include survival, evasion, resistance, and escape programs.
 
-##### 9.6.2.{#9_6_2} Career Field Description. CROs provide advocacy and oversight to the Pararescue and SERE enlisted career fields. The primary mission of a combat rescue team is to provide rescue and recovery capability and emergency medical treatment, in both peacetime and combat situations, while in austere, permissive, and non-permissive environments. Personnel deploy by air-land-sea tactics into forward, non-permissive environments, and participate in a wide variety of PR operations, to include Search and Rescue (SAR), SAR Security Teams and Combat SAR missions. Combat Rescue Officers lead and command combat rescue operations as direct combatants.
+##### 9.6.2.{#9_6_2} Career Field Description.
 
-##### 9.6.3.{#9_6_3} Training. All candidates are required to complete the STO training pipeline as described in paragraph 9.5.3.
+CROs provide advocacy and oversight to the Pararescue and SERE enlisted career fields. The primary mission of a combat rescue team is to provide rescue and recovery capability and emergency medical treatment, in both peacetime and combat situations, while in austere, permissive, and non-permissive environments. Personnel deploy by air-land-sea tactics into forward, non-permissive environments, and participate in a wide variety of PR operations, to include Search and Rescue (SAR), SAR Security Teams and Combat SAR missions. Combat Rescue Officers lead and command combat rescue operations as direct combatants.
 
-##### 9.6.4.{#9_6_4} Application Procedures. Cadets may apply after completion of FT and prior to the awarding of an AFSC. AFPC will allow cadets classified in another career field to apply for CRO prior to commissioning. Therefore, Air Combat Command (ACC) will accept applications from any junior or senior if they can be released from their AFSC. CRO selections are made at HQ ACC/A3J. Applications should be emailed to HQ ACC/A3J at cro.selection@langley.af.mil. The CRO selection process normally has two phases: board selection phase followed by a summer capabilities selection process. Selected applicants will be invited to attend Phase II Selection, normally the last week of March and September, respectively. This will be a TDY for the cadet. See current CRO application on the AFROTC website for specific application requirements.
+##### 9.6.3.{#9_6_3} Training.
+
+All candidates are required to complete the STO training pipeline as described in paragraph 9.5.3.
+
+##### 9.6.4.{#9_6_4} Application Procedures.
+
+Cadets may apply after completion of FT and prior to the awarding of an AFSC. AFPC will allow cadets classified in another career field to apply for CRO prior to commissioning. Therefore, Air Combat Command (ACC) will accept applications from any junior or senior if they can be released from their AFSC. CRO selections are made at HQ ACC/A3J. Applications should be emailed to HQ ACC/A3J at cro.selection@langley.af.mil. The CRO selection process normally has two phases: board selection phase followed by a summer capabilities selection process. Selected applicants will be invited to attend Phase II Selection, normally the last week of March and September, respectively. This will be a TDY for the cadet. See current CRO application on the AFROTC website for specific application requirements.
 
 ----
 
@@ -298,13 +311,19 @@ Notes:
 
 #### 9.9.{#9_9} AFROTC Law Programs.
 
-##### 9.9.1.{#9_9_1} Objective. To assist The Judge Advocate General (TJAG) Corps in obtaining adequate numbers of commissioned legal officers. AFROTC cadets are eligible to apply to the Educational Delay Program (Chapter 12). AFROTC is responsible for managing the ROTC portion of the Graduate Law Program (GLP) and the One-Year College Program (OYCP) for law students selected by TJAG IAW AFI 51-101, Judge Advocate Accession Program.
+##### 9.9.1.{#9_9_1} Objective.
 
-##### 9.9.2.{#9_9_2} Educational Delay Program. The Educational Delay Program is a three -year program for current AFROTC cadets who want to delay their entry on extended active duty to study law. Cadets must compete for selection both for entry into the program and again for entry into TJAGC upon successful completion of the program. Applicants selected to attend law school under the program are not guaranteed a position as an Air Force judge advocate.
+To assist The Judge Advocate General (TJAG) Corps in obtaining adequate numbers of commissioned legal officers. AFROTC cadets are eligible to apply to the Educational Delay Program (Chapter 12). AFROTC is responsible for managing the ROTC portion of the Graduate Law Program (GLP) and the One-Year College Program (OYCP) for law students selected by TJAG IAW AFI 51-101, Judge Advocate Accession Program.
+
+##### 9.9.2.{#9_9_2} Educational Delay Program.
+
+The Educational Delay Program is a three -year program for current AFROTC cadets who want to delay their entry on extended active duty to study law. Cadets must compete for selection both for entry into the program and again for entry into TJAGC upon successful completion of the program. Applicants selected to attend law school under the program are not guaranteed a position as an Air Force judge advocate.
 
 + 9.9.2.1. Entrance into the Educational Delay Program. Interested applicants should call 1-800-JAGUSAF or visit www.airforce.com/jag.
 
-##### 9.9.3.{#9_9_3} GLP and the OYCP. The GLP is available to first-year law students attending an ABA-accredited law school. The OYCP is available to second-year law students attending an ABA-accredited law school. Applicants meet a central HQ USAF/JAX board and enroll in AFROTC if selected for GLP or OYCP. Judge advocate duty upon commissioning is guaranteed before actual enlistment into the Professional Officer Course (POC). This guarantee is contingent upon successful completion of all law school and AFROTC requirements, certification of medical qualification, passing the applicable bar requirements, and admission to the highest court of any state or federal court. For students attending HBCUs or HSIs refer to Chapter 3 of this instruction for scholarship eligibility.
+##### 9.9.3.{#9_9_3} GLP and the OYCP.
+
+The GLP is available to first-year law students attending an ABA-accredited law school. The OYCP is available to second-year law students attending an ABA-accredited law school. Applicants meet a central HQ USAF/JAX board and enroll in AFROTC if selected for GLP or OYCP. Judge advocate duty upon commissioning is guaranteed before actual enlistment into the Professional Officer Course (POC). This guarantee is contingent upon successful completion of all law school and AFROTC requirements, certification of medical qualification, passing the applicable bar requirements, and admission to the highest court of any state or federal court. For students attending HBCUs or HSIs refer to Chapter 3 of this instruction for scholarship eligibility.
 
 + 9.9.3.1. GLP/OYCP Eligibility. Applicants must be enrolled as first-year or second- year law students in good academic standing at an ABA-accredited law school that hosts an AFROTC program or is affiliated through a cross-town agreement and have the appropriate time remaining in their law program curriculum.
 

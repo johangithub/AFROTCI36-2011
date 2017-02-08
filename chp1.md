@@ -2,6 +2,8 @@
 
 ##### 1.1.1.{#1_1_1} This instruction provides guidance for cadet operations in order to execute the AFROTC mission: Develop Quality Leaders for the Air Force.
 
+----
+
 #### 1.2.{#1_2} Responsibilities.
 
 ##### 1.2.1.{#1_2_1} The Director, Curriculum Division (Holm Center).
@@ -245,9 +247,7 @@ that conducts its education program within a military training environment on or
 
 	+ 1.2.9.9.1. Instructor training and evaluation data IAW HOLMCENTERI 36-2601.
 
-	+ 1.2.9.9.2. A syllabus for each AS and LLAB course offered. Syllabi should include attendance policy for cadets and academic-only students. Retain for one calendar year
-
-following the end of the academic term. Example: if the term ends in May 2013, keep the syllabus until December 31, 2014.
+	+ 1.2.9.9.2. A syllabus for each AS and LLAB course offered. Syllabi should include attendance policy for cadets and academic-only students. Retain for one calendar year following the end of the academic term. Example: if the term ends in May 2013, keep the syllabus until December 31, 2014.
 
 	+ 1.2.9.9.3. If Holm Center/CR lesson plans are not used, then detachment- generated lesson plans must be retained until revised (electronic copy will suffice). Once revised there is no requirement to maintain the old lesson plan. All detachment- generated lesson plans must still accomplish the lesson objectives found in the original Holm Center lesson plan.
 
@@ -280,6 +280,8 @@ following the end of the academic term. Example: if the term ends in May 2013, k
 + 1.2.10.6. Monitor and update all cadet pay actions--tuition, fees, subsistence and textbook funds. This includes marking the Billed in Full (BIF) flag in WINGS once the bill has been forwarded to Holm Center/SDF.
 
 + 1.2.10.7. Oversee office functions—publications and forms management, GPC, and computer resources.
+
+----
 
 #### 1.3.{#1_3} Waiver Requests. When a waiver is required, submit the request through the appropriate office. Reference the paragraph in the instruction for which a waiver is required, and accurately describe the request in detail.
 

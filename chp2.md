@@ -1,7 +1,8 @@
-
 #### 2.1.{#2_1} Mission.
 
 ##### 2.1.1.{#2_1_1} The AFROTC recruiting mission is “To meet Air Staff production goals by identifying, contacting, and recruiting highly qualified applicants in order to produce the highest quality officers for the Air Force." The OPR for this chapter is HQ AFROTC/DOR.
+
+----
 
 #### 2.2.{#2_2} Recruiting Process Overview.
 
@@ -301,6 +302,8 @@
 
 + 2.2.11.6. After-Action Reports (AAR). The RDA or RFC who sponsors the event must document follow-up actions concerning leads who attended a COI within 5 business days of the event. The AAR is entered electronically through the X-Net. The RDA or RFCs must also maintain the sign-in roster of each event for the duration of the current and previous academic years of the event.
 
+----
+
 #### 2.3.{#2_3} Recruiting Resources.
 
 ##### 2.3.1.{#2_3_1} Managing Recruiting Funds. This section covers areas where RDAs and detachments may utilize funds for recruiting purposes: COI/College Fairs (CFs), O&M, and A&P items. These funds are provided annually by HQ AFROTC/DOR specifically for recruiting purposes.
@@ -336,6 +339,8 @@
 + 2.3.8.3. HQ AFROTC/DORM will approve all purchases via X-Net, contact the vendor directly to arrange payment and have the item(s) shipped to the location given to the vendor by the requestor.
 
 + 2.3.8.4. All marketing funds must be obligated by 1 Jun annually and executed by 15 Sep annually.
+
+----
 
 #### 2.4.{#2_4} Travel and Temporary Duty (TDY) Management.
 

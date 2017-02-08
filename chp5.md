@@ -1,8 +1,12 @@
-#### 5.1.{#5_1} General Information. This chapter covers the medical requirements for contracting a cadet (enlistment) and commissioning into the Air Force. Medical examinations can be obtained through the Department of Defense Medical Examination Review Board (DoDMERB), a Military Entrance Processing Station (MEPS), or military treatment facilities (MTF). For additional information refer to the AETC/SGPS ROTC Cadet Medical Processing Guide (CMPG). The OPR for this chapter is HQ AFROTC/RRF.
+#### 5.1.{#5_1} General Information. 
+
+This chapter covers the medical requirements for contracting a cadet (enlistment) and commissioning into the Air Force. Medical examinations can be obtained through the Department of Defense Medical Examination Review Board (DoDMERB), a Military Entrance Processing Station (MEPS), or military treatment facilities (MTF). For additional information refer to the AETC/SGPS ROTC Cadet Medical Processing Guide (CMPG). The OPR for this chapter is HQ AFROTC/RRF.
 
 ----
 
-#### 5.2.{#5_2} DoDMERB Physicals. DoDMERB is the centralized certifying authority for entry (scholarship) physicals and a DoDMERB physical is required for scholarship activations. Certified DoDMERB physicals are good for scholarship activation, field training attendance, POC entry and commissioning (non-rated and non-specialty only). DoDMERB physicals are scheduled through their website at https://dodmets.com, and a user guide is available on this website. HQ AETC/SGPS serves as the action office following initial DoDMERB certification, regardless of medical action addressed, and will accomplish all subsequent recertification. The initial DoDMERB determination of "MEETS" or "DOES NOT MEET" medical accession standards is based on DoDI 6130.3, Medical Standards for Appointment, Enlistment, and Induction into the Armed Forces. If the DoDMERB determination is "DOES NOT MEET" medical accession standards, then a medical waiver is normally considered by AETC/SGP automatically based on AFI 48-123, Medical Examinations and Standards, unless the cadet requests not to pursue the waiver. The CMPG provides additional information on the AETC/SGP case review process.
+#### 5.2.{#5_2} DoDMERB Physicals.
+
+DoDMERB is the centralized certifying authority for entry (scholarship) physicals and a DoDMERB physical is required for scholarship activations. Certified DoDMERB physicals are good for scholarship activation, field training attendance, POC entry and commissioning (non-rated and non-specialty only). DoDMERB physicals are scheduled through their website at https://dodmets.com, and a user guide is available on this website. HQ AETC/SGPS serves as the action office following initial DoDMERB certification, regardless of medical action addressed, and will accomplish all subsequent recertification. The initial DoDMERB determination of "MEETS" or "DOES NOT MEET" medical accession standards is based on DoDI 6130.3, Medical Standards for Appointment, Enlistment, and Induction into the Armed Forces. If the DoDMERB determination is "DOES NOT MEET" medical accession standards, then a medical waiver is normally considered by AETC/SGP automatically based on AFI 48-123, Medical Examinations and Standards, unless the cadet requests not to pursue the waiver. The CMPG provides additional information on the AETC/SGP case review process.
 
 ----
 
@@ -92,7 +96,9 @@
 
 ----
 
-#### 5.11.{#5_11} Medical Waiver Requests. HQ AETC/SGPS serves as medical waiver authority for cadets in all categories and year groups with one exception. The waiver authority for space/missile operations duty is AFSPC/SGP. If a waiver is approved, medical conditions must remain static for it to continue in effect. Waivers previously granted are reevaluated each time a cadet is examined. If a waiver is denied and an applicant feels that there is new evidence that shows the defect has been resolved or challenges the original determination, then a medical disqualification rebuttal request can be submitted. The process will be provided in the disqualification letter. If the rebuttal request is denied, then an Exception to Policy (ETP) request can be submitted following the guidelines in Attachment 48.
+#### 5.11.{#5_11} Medical Waiver Requests. 
+
+HQ AETC/SGPS serves as medical waiver authority for cadets in all categories and year groups with one exception. The waiver authority for space/missile operations duty is AFSPC/SGP. If a waiver is approved, medical conditions must remain static for it to continue in effect. Waivers previously granted are reevaluated each time a cadet is examined. If a waiver is denied and an applicant feels that there is new evidence that shows the defect has been resolved or challenges the original determination, then a medical disqualification rebuttal request can be submitted. The process will be provided in the disqualification letter. If the rebuttal request is denied, then an Exception to Policy (ETP) request can be submitted following the guidelines in Attachment 48.
 
 ----
 

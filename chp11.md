@@ -1,4 +1,3 @@
-
 #### 11.1.{#11_1} Purpose.
 
 ##### 11.1.1.{#11_1_1} Contract cadets are scholarship cadets in the GMC and all cadets in the POC. Contract cadets are subject to disenrollment at any time up until commissioning. The OPR for this chapter is HQ AFROTC/RRFD.
@@ -11,7 +10,9 @@
 
 ----
 
-#### 11.2.{#11_2} Authority. The AFROTC/CC, acting for and in the best interest of the United States Air Force, may disenroll any contract cadet at any time with or without cause. Authority to release, recoup or call the individual to Extended Active Duty (EAD) is outlined in Title 10 USC, Sections 2105, DoDI 1215.08 and AFI 36-2011. A signed contract AF Form 1056, Air Force Reserve Officer Training Corps (AFROTC) Contract, between a cadet and the United States Air Force is not a guarantee that a commission will be offered to the cadet. The AFROTC Registrar, on behalf of the AFROTC/CC, establishes and executes policies and procedures governing all facets of AFROTC disenrollments (see para 1.2.4.1).
+#### 11.2.{#11_2} Authority.
+
+The AFROTC/CC, acting for and in the best interest of the United States Air Force, may disenroll any contract cadet at any time with or without cause. Authority to release, recoup or call the individual to Extended Active Duty (EAD) is outlined in Title 10 USC, Sections 2105, DoDI 1215.08 and AFI 36-2011. A signed contract AF Form 1056, Air Force Reserve Officer Training Corps (AFROTC) Contract, between a cadet and the United States Air Force is not a guarantee that a commission will be offered to the cadet. The AFROTC Registrar, on behalf of the AFROTC/CC, establishes and executes policies and procedures governing all facets of AFROTC disenrollments (see para 1.2.4.1).
 
 ----
 
@@ -217,7 +218,9 @@
 
 		+ 11.4.2.5.2.5. There are no readily available means to alleviate the situation other than disenrollment.
 
-##### 11.4.3.{#11_4_3} Investigative Disenrollment Procedure. Detachment/CCs will initiate investigative disenrollment actions when evidence as defined in paragraph 11.4.2 exists (refer to Attachment 34 for a quick-reference list of steps). Region/CCs and HQ AFROTC may direct investigative disenrollment. In a commander's absence, the senior officer assigned to the detachment may initiate disenrollment action on the commander's behalf.
+##### 11.4.3.{#11_4_3} Investigative Disenrollment Procedure.
+
+Detachment/CCs will initiate investigative disenrollment actions when evidence as defined in paragraph 11.4.2 exists (refer to Attachment 34 for a quick-reference list of steps). Region/CCs and HQ AFROTC may direct investigative disenrollment. In a commander's absence, the senior officer assigned to the detachment may initiate disenrollment action on the commander's behalf.
 
 + 11.4.3.1. Initiate investigative disenrollment action using the AFROTC Form 10.
 
@@ -347,9 +350,13 @@
 
 ##### 11.7.1.{#11_7_1} Upon receipt of a package, AFROTC/RRFD enters it into the disenrollments database and then reviews it for completeness and accuracy.
 
-##### 11.7.2.{#11_7_2} Return Without Action (RWOA). AFROTC/RRFD may RWOA a case file due to legal insufficiency (lack of evidence), regulatory guidance not followed, poor package, missing documents, or need for further investigation. If a case file contains minor errors, AFROTC/RRFD will call the detachment and request additional information or documents. The detachment then has 5 working days to provide the requested information or the package will be returned to the detachment without action.
+##### 11.7.2.{#11_7_2} Return Without Action (RWOA).
 
-##### 11.7.3.{#11_7_3} Review process. At HQ AFROTC, the package is reviewed at multiple levels, including Holm Center/JA for legal sufficiency. The cadet is not permitted or authorized to make personal appearances with HQ AFROTC personnel to discuss their case. Any additional information required by HQ AFROTC will be obtained by working through the Detachment/CC.
+AFROTC/RRFD may RWOA a case file due to legal insufficiency (lack of evidence), regulatory guidance not followed, poor package, missing documents, or need for further investigation. If a case file contains minor errors, AFROTC/RRFD will call the detachment and request additional information or documents. The detachment then has 5 working days to provide the requested information or the package will be returned to the detachment without action.
+
+##### 11.7.3.{#11_7_3} Review process.
+
+At HQ AFROTC, the package is reviewed at multiple levels, including Holm Center/JA for legal sufficiency. The cadet is not permitted or authorized to make personal appearances with HQ AFROTC personnel to discuss their case. Any additional information required by HQ AFROTC will be obtained by working through the Detachment/CC.
 
 + 11.7.3.1. If EAD is the recommendation from the Registrar, the package must be routed to AFROTC/CC for final decision.
 
@@ -465,7 +472,9 @@
 
 + 11.13.1.3. Cadets disenrolled with recoupment who return to AFROTC, contract into AFROTC, and are subsequently disenrolled with recoupment again will be liable for scholarship funds from their first disenrollment as well as current enrollment.
 
-##### 11.13.2.{#11_13_2} Rescind Call to EAD. A disenrolled cadet called to EAD who receives a new enrollment allocation, and recontracts/reenlists may request termination of the call to EAD. Detachments must indorse and submit a memorandum requesting rescinding of the EAD to AFROTC/RRFD (using the letter format at Attachment 31). Counsel cadets via AFROTC Form 16 that termination of the call to EAD is contingent upon receipt of an Air Force commission.
+##### 11.13.2.{#11_13_2} Rescind Call to EAD.
+
+A disenrolled cadet called to EAD who receives a new enrollment allocation, and recontracts/reenlists may request termination of the call to EAD. Detachments must indorse and submit a memorandum requesting rescinding of the EAD to AFROTC/RRFD (using the letter format at Attachment 31). Counsel cadets via AFROTC Form 16 that termination of the call to EAD is contingent upon receipt of an Air Force commission.
 
 + 11.12.2.1. Do not re-enlist or contract the cadet until the call to EAD has been terminated.
 
@@ -475,7 +484,9 @@
 
 ##### 11.14.1.{#11_14_1} Disenrolled cadets may appeal their disenrollment, call to EAD, or recoupment action once. Suspension and probation cannot be appealed. Requests for reconsideration of the disenrollment decision will always be reviewed; however, changes will only be made based upon new evidence that was not available during the initial investigation. Submit appeals in writing to the AFROTC/CC no later than one (1) year from the individual's effective date of disenrollment listed on the DD Form 785. Requests received after the one- year cutoff date will not be considered. The cadet is not permitted or authorized to make personal appearances with HQ AFROTC personnel to discuss their case.
 
-##### 11.14.2.{#11_14_2} Release of Cadet Records. At any time during the disenrollment process, a cadet is permitted to review their UPRG upon request under the supervision of detachment cadre. After disenrollment, a cadet desiring copies of specific records from the UPRG must submit a written request, citing the Privacy Act of 1974, to the detachment records custodian. Remove any Privacy Act information about individuals other than the cadet before releasing copies of the records. Cadets may obtain completed copies of the disenrollment case file by submitting a written request to the Freedom of Information Act (FOIA) and Privacy Act (PA) office, 42 CS/SCOKR, 50 LeMay Plaza South, Maxwell AFB AL 36112, citing the FOIA or PA or online at www.foia.af.mil. The request must list the specific information desired.
+##### 11.14.2.{#11_14_2} Release of Cadet Records.
+
+At any time during the disenrollment process, a cadet is permitted to review their UPRG upon request under the supervision of detachment cadre. After disenrollment, a cadet desiring copies of specific records from the UPRG must submit a written request, citing the Privacy Act of 1974, to the detachment records custodian. Remove any Privacy Act information about individuals other than the cadet before releasing copies of the records. Cadets may obtain completed copies of the disenrollment case file by submitting a written request to the Freedom of Information Act (FOIA) and Privacy Act (PA) office, 42 CS/SCOKR, 50 LeMay Plaza South, Maxwell AFB AL 36112, citing the FOIA or PA or online at www.foia.af.mil. The request must list the specific information desired.
 
 ----
 
@@ -483,7 +494,9 @@
 
 ##### 11.15.1.{#11_15_1} During the disenrollment process, the Detachment/CC may authorize the cadet to retain the military identification card. If not retained in the program, the cadet will immediately surrender the ID card to detachment cadre. No action is required if the ID card was issued due to the cadet being a dependent of a military member.
 
-##### 11.15.2.{#11_15_2} Disposition. The detachment should immediately forward disenrolled cadet ID cards to host MPS. The host MPS will remove the affected individual from DEERS as needed. Once removal has been verified, the DD Form 2, US Armed Forces ID Card, will be destroyed and the DD Form 2842 will be filled appropriately for recycling as required in appropriate guidance.
+##### 11.15.2.{#11_15_2} Disposition.
+
+The detachment should immediately forward disenrolled cadet ID cards to host MPS. The host MPS will remove the affected individual from DEERS as needed. Once removal has been verified, the DD Form 2, US Armed Forces ID Card, will be destroyed and the DD Form 2842 will be filled appropriately for recycling as required in appropriate guidance.
 
 ##### 11.15.3.{#11_15_3} Detachment/CC or a designated individual shall remove any vehicle decals and/or confiscate any extended passes received from a base vehicle registration office. Decals and passes will be returned to the host base vehicle registration office.
 

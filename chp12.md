@@ -1,5 +1,6 @@
+#### 12.1.{#12_1} General Information.
 
-#### 12.1.{#12_1} General Information. This chapter outlines precommissioning, commissioning, and post-commissioning requirements, programs, and actions required for entry onto EAD. Cadet must be fully qualified to commission (Medical, GPA, PFA, Ht/Wt/BMI/Body Fat, etc.) and must commission NLT 30 days after completing their degree and AFROTC, whichever occurs last. Additionally, commissioning must occur within the FY associated with the enrollment allocation. Therefore, it is possible for a cadet to complete both the AFROTC requirements and the degree but not commission until 1 Oct of the next FY. For exceptions, contact AFROTC/RRFA, which is the OPR for this chapter.
+This chapter outlines precommissioning, commissioning, and post-commissioning requirements, programs, and actions required for entry onto EAD. Cadet must be fully qualified to commission (Medical, GPA, PFA, Ht/Wt/BMI/Body Fat, etc.) and must commission NLT 30 days after completing their degree and AFROTC, whichever occurs last. Additionally, commissioning must occur within the FY associated with the enrollment allocation. Therefore, it is possible for a cadet to complete both the AFROTC requirements and the degree but not commission until 1 Oct of the next FY. For exceptions, contact AFROTC/RRFA, which is the OPR for this chapter.
 
 ----
 
@@ -43,9 +44,13 @@
 
 #### 12.3.{#12_3} Pre-Commissioning.
 
-##### 12.3.1.{#12_3_1} Classification and Accession to EAD. A detachment officer must counsel each cadet that classification and assignments are based primarily on the needs of the Air Force at the time of entry onto EAD (exceptions are non-line categories). AFPC Officer Accessions (HQ AFPC/DPSIP) will provide EAD orders to detachments. (It is imperative that detachment personnel keep the WINGS database and AFPC updated with any changes in DOC/DOG.) Detachments will assist cadets with contacting their gaining unit to request a sponsor and instruct cadets to utilize the MilitaryHOMEFRONT website to obtain PCS information.
+##### 12.3.1.{#12_3_1} Classification and Accession to EAD.
 
-##### 12.3.2.{#12_3_2} AFROTC Form 53, Cadet Assignment Preference Worksheet. Contracted cadets, and Guard and Reserve in pursuing status, must complete a web-based AFROTC Form 53 NLT the date specified by HQ AFPC/DPSIP for each accession classification cycle. The AFROTC Form 53 website will be announced in the ARMS message announcing the Form 53 dates. If the AFR OT C Form 53 database suspense cannot be met for valid reasons (e.g., pending DOC/DOG change, disenrollment, natural disaster, etc.), notify AFPC/DPSIP with the cadet's name, SSN, reason for delay, and anticipated submission date. AFROTC/RRFP establishes accounts for staff members (technician and commander); detachment personnel establish cadet accounts.
+A detachment officer must counsel each cadet that classification and assignments are based primarily on the needs of the Air Force at the time of entry onto EAD (exceptions are non-line categories). AFPC Officer Accessions (HQ AFPC/DPSIP) will provide EAD orders to detachments. (It is imperative that detachment personnel keep the WINGS database and AFPC updated with any changes in DOC/DOG.) Detachments will assist cadets with contacting their gaining unit to request a sponsor and instruct cadets to utilize the MilitaryHOMEFRONT website to obtain PCS information.
+
+##### 12.3.2.{#12_3_2} AFROTC Form 53, Cadet Assignment Preference Worksheet.
+
+Contracted cadets, and Guard and Reserve in pursuing status, must complete a web-based AFROTC Form 53 NLT the date specified by HQ AFPC/DPSIP for each accession classification cycle. The AFROTC Form 53 website will be announced in the ARMS message announcing the Form 53 dates. If the AFR OT C Form 53 database suspense cannot be met for valid reasons (e.g., pending DOC/DOG change, disenrollment, natural disaster, etc.), notify AFPC/DPSIP with the cadet's name, SSN, reason for delay, and anticipated submission date. AFROTC/RRFP establishes accounts for staff members (technician and commander); detachment personnel establish cadet accounts.
 
 + 12.3.2.1. There are two phases to the AFROTC Form 53 process:
 
@@ -81,11 +86,15 @@
 
 ----
 
-#### 12.6.{#12_6} Legal Licensing Delay Requirements and Internships. Procedures for requesting these programs are covered in AFI 36-2009.
+#### 12.6.{#12_6} Legal Licensing Delay Requirements and Internships.
+
+Procedures for requesting these programs are covered in AFI 36-2009.
 
 ----
 
-#### 12.7.{#12_7} Application for Appointment. Each commissioning cadet must complete an AF Form 24, Application for Appointment as Reserve of the Air Force or USAF without Component. Prepare one original AF Form 24 and distribute the AF Form 24 and the associated commissioning documents as prescribed in Attachment 35.
+#### 12.7.{#12_7} Application for Appointment.
+
+Each commissioning cadet must complete an AF Form 24, Application for Appointment as Reserve of the Air Force or USAF without Component. Prepare one original AF Form 24 and distribute the AF Form 24 and the associated commissioning documents as prescribed in Attachment 35.
 
 ----
 
@@ -93,7 +102,9 @@
 
 ##### 12.8.1.{#12_8_1} During the weeks prior to commissioning, ensure the cadet meets the prerequisites for appointment. If the cadet does not meet all commissioning prerequisites, take appropriate actions to change the DOC, qualify the cadet, obtain waivers, or investigate for disenrollment, as applicable. Detachments will use the AFROTC Form 64, AFROTC Commissioning Checklist, and the guidance contained within this chapter to ensure the cadet is qualified to commission.
 
-##### 12.8.2.{#12_8_2} Medical. Each cadet must have a current medical examination for their AFSC certified by HQ AETC/SGPS or MEPS for cadets requiring only a commission-qualified physical). Do not commission a cadet in medical recheck status or without a current physical certified for their AFSC as this constitutes an erroneous commissioning.
+##### 12.8.2.{#12_8_2} Medical.
+
+Each cadet must have a current medical examination for their AFSC certified by HQ AETC/SGPS or MEPS for cadets requiring only a commission-qualified physical). Do not commission a cadet in medical recheck status or without a current physical certified for their AFSC as this constitutes an erroneous commissioning.
 
 + 12.8.2.1. Physicals for cadets classified into AFSC 13M1 (Airfield Operator) must include successful completion of a Read Aloud Test and have an Adaptability Rating For Air Traffic Controllers (ARATC).
 
@@ -107,7 +118,9 @@
 
 ##### 12.8.3.{#12_8_3} Cadets classified into 13N1 (Missile Operations) must have a MOD certified physical and be PRP qualified. Dual Citizenship. Cadets who hold dual citizenship with a foreign country could be ineligible for a security clearance. It may be necessary for them to renounce their citizenship with the foreign country through the state consulate.
 
-##### 12.8.4.{#12_8_4} Security Clearances. All contract cadets must have an open security clearance IAW their Personnel Processing Codes (PPC) for their AFSC before they can be commissioned. See Attachment 39 for a complete list of AFSCs requiring mandatory SSBI clearance. If a previously adjudicated security clearance or an open security clearance is placed on "Hold" status, do NOT commission until the security clearance has been re-instated.
+##### 12.8.4.{#12_8_4} Security Clearances.
+
+All contract cadets must have an open security clearance IAW their Personnel Processing Codes (PPC) for their AFSC before they can be commissioned. See Attachment 39 for a complete list of AFSCs requiring mandatory SSBI clearance. If a previously adjudicated security clearance or an open security clearance is placed on "Hold" status, do NOT commission until the security clearance has been re-instated.
 
 + 12.8.4.1. Responsibilities:
 
@@ -215,27 +228,37 @@
 
 + 12.8.5.10. The Air Force PRP informational website for training, sample documents, PSD Administrative Qualification and end-user tools is located at: https://www.my.af.mil/gcss- af/USAF/ep/globalTab.do?channelPageId=sF575FC8E23D21F6E0123FD054D26070B.
 
-##### 12.8.6.{#12_8_6} Character. Do not commission individuals who have criminal charges pending against them or are pending waiver of any involvement with civil, military, or school authorities. Cadets who have received a Detachment/CC or HQ AFROTC waiver for a civil involvement but were subsequently placed on supervised probation by the court cannot be commissioned until the end of their probation. If this probationary period pushes the cadet to the next FY, investigate for disenrollment. If the cadet is placed on unsupervised probation, the cadet can commission, review AFROTC Form 35, Certification of Involvement with Civil, Military, School Authorities/Law Enforcement Officials, and supporting documents of each cadet to ensure all actions specified in Chapter 4 are accomplished. If criminal charges are pending against the cadet, forward an AFROTC Form 22 package to AFROTC/RRFA.
+##### 12.8.6.{#12_8_6} Character.
 
-##### 12.8.7.{#12_8_7} Program Completion. Cadets must successfully complete the entire AFROTC program.
+Do not commission individuals who have criminal charges pending against them or are pending waiver of any involvement with civil, military, or school authorities. Cadets who have received a Detachment/CC or HQ AFROTC waiver for a civil involvement but were subsequently placed on supervised probation by the court cannot be commissioned until the end of their probation. If this probationary period pushes the cadet to the next FY, investigate for disenrollment. If the cadet is placed on unsupervised probation, the cadet can commission, review AFROTC Form 35, Certification of Involvement with Civil, Military, School Authorities/Law Enforcement Officials, and supporting documents of each cadet to ensure all actions specified in Chapter 4 are accomplished. If criminal charges are pending against the cadet, forward an AFROTC Form 22 package to AFROTC/RRFA.
 
-##### 12.8.8.{#12_8_8} Graduation. A cadet is eligible for commissioning only after the detachment receives an official transcript indicating degree awarded or written certification from the Registrar or other institutional official authorized confirming the cadet has completed all degree requirements (Attachment 36). Do not proceed with commissioning if the university official indicates any pending requirements for degree completion.
+##### 12.8.7.{#12_8_7} Program Completion.
 
-##### 12.8.9.{#12_8_9} DOC/DOG. Ensure the DOC/DOG is correct in WINGS. Do not commission the cadet in an FY other than that associated with the DOC, unless AFROTC/RR approves an enrollment allocation for the new FY.
+Cadets must successfully complete the entire AFROTC program.
+
+##### 12.8.8.{#12_8_8} Graduation.
+
+A cadet is eligible for commissioning only after the detachment receives an official transcript indicating degree awarded or written certification from the Registrar or other institutional official authorized confirming the cadet has completed all degree requirements (Attachment 36). Do not proceed with commissioning if the university official indicates any pending requirements for degree completion.
+
+##### 12.8.9.{#12_8_9} DOC/DOG.
+
+Ensure the DOC/DOG is correct in WINGS. Do not commission the cadet in an FY other than that associated with the DOC, unless AFROTC/RR approves an enrollment allocation for the new FY.
 
 ##### 12.8.10.{#12_8_10} A BMI measurement will be administered to all cadets NET 30 calendar days and NLT the day prior to commissioning. Conduct the commissioning BMI check. Cadets must be within BMI standards and satisfactorily pass the PFA. Cadets not within BMI standards are commission qualified if they meet body fat standards IAW DODI 1308.3.
 
 + 12.8.10.1. All AECP and NECP students are required to meet height, weight, BMI outlined in AFI 36-2013, paragraph 3.9.2.6 and AFI 36-2905 for accessions into OTS. This additional requirement will be administered prior to departure for OTS and during all annual PFAs while in the program. Failure to meet this requirement could result in a CE and/or non-attendance at OTS and therefore trigger an investigation for disenrollment from the AECP/NECP program. (See Chapter 13)
 
-##### 12.8.11.{#12_8_11} Commissioning Qualifying Fitness Review (QFR). The QFR is an AF PFA performed prior to commissioning. The commissioning QFR is administered to cadets scheduled to be commissioned in the United States Air Force. It is accomplished IAW AFI
+##### 12.8.11.{#12_8_11} Commissioning Qualifying Fitness Review (QFR).
 
-36-2905. Cadets must meet AF standards for the PFA. Commissioning QFRs must be accomplished NET 30 days prior to commissioning date. For example, a cadet who is graduating and commissioning on 15 May can be tested as early as 15 April. Score sheets should be provided to the cadet upon commissioning.
+The QFR is an AF PFA performed prior to commissioning. The commissioning QFR is administered to cadets scheduled to be commissioned in the United States Air Force. It is accomplished IAW AFI36-2905. Cadets must meet AF standards for the PFA. Commissioning QFRs must be accomplished NET 30 days prior to commissioning date. For example, a cadet who is graduating and commissioning on 15 May can be tested as early as 15 April. Score sheets should be provided to the cadet upon commissioning.
 
 + 12.8.11.1. Cadets are authorized two attempts at the QFR. Cadets who fail their first QFR will be counseled via AFROTC Form 16 and receive a CE. They will also be automatically placed on HQ AFROTC-DIRECTED PROBATION PENDING A QFR RETEST. They will be retested no earlier than 72 hours after the failure. If the first QFR failure is their third CE as a POC or fourth CE overall, detachments will delay initiating a disenrollment investigation until after the QFR retake. All cadets who fail the retest will be issued another CE and be immediately investigated for disenrollment, regardless of the total number of CEs. If they pass the retake, NO disenrollment investigation is required based on the QFR CE, regardless of the total number of CEs, provided they meet all other commissioning requirements. In the event a second QFR is required, a cadre member will monitor or administer the QFR to be sure repetitions are completed correctly.
 
 + 12.8.11.2. The QFR can be administered during any term, commensurate with the cadet's commissioning date. This QFR should be administered separately from the term PFAs.
 
-##### 12.8.12.{#12_8_12} Non-line Commissioning Requirements. The following procedures apply for commissioning Pre-HPP (Health Professions Program) and non-Pre-HPP cadets who desire a career as an Air Force physician.
+##### 12.8.12.{#12_8_12} Non-line Commissioning Requirements.
+
+The following procedures apply for commissioning Pre-HPP (Health Professions Program) and non-Pre-HPP cadets who desire a career as an Air Force physician.
 
 + 12.8.12.1. Pre-HPP cadets who:
 
@@ -251,7 +274,9 @@
 
 	+ 12.8.12.2.2. Are accepted to a medical school and approved for an educational delay, are commissioned as line officers, incur a 4-year ADSC, and retain the line commission through medical school. Current HQ AFPC/DPAME policy is not to grant an extension to cadets who fail to meet this contractual requirement, even if they are subsequently admitted to medical school. NOTE: Only Pre-HPP ("Pre- Medical" designation) cadets are guaranteed the AFHPS/FAP (Financial Assistance Program) if accepted into a medical school before undergraduate graduation and commissioning as stated on AF Form 1056, Air Force Reserve Officer Training Corps (AFROTC) Contract.
 
-##### 12.8.13.{#12_8_13} Nurse Commissioning Requirements. The following procedures apply for commissioning nurse cadets.
+##### 12.8.13.{#12_8_13} Nurse Commissioning Requirements.
+
+The following procedures apply for commissioning nurse cadets.
 
 + 12.8.13.1. Licensing. Nursing student cadets will not be commissioned until verification of passing the National Council Licensure Examination for Registered Nurses (NCLEX-RN). The cost of the licensure exam is paid by the individual and is at no expense to the government.
 
@@ -263,7 +288,9 @@
 
 + 12.8.13.3. Nurse Transition Program (NTP). All registered nurses with less than one year full-time (minimum 24 hours per week) experience in inpatient (acute care) clinical nursing will attend the NTP as their first duty assignment. The NTP is a 9-11-week transition program at one of four medical centers.
 
-##### 12.8.14.{#12_8_14} Commissioning. Upon meeting all baccalaureate nurse degree requirements and obtaining passing scores on the NCLEX-RN and receipt of completed requested forms (see Attachments 42 and 43) by HQ AFPC/DPAMN, nurse cadets will be commissioned into the United States Air Force Nurse Corps.
+##### 12.8.14.{#12_8_14} Commissioning.
+
+Upon meeting all baccalaureate nurse degree requirements and obtaining passing scores on the NCLEX-RN and receipt of completed requested forms (see Attachments 42 and 43) by HQ AFPC/DPAMN, nurse cadets will be commissioned into the United States Air Force Nurse Corps.
 
 + 12.8.14.1. Commissioning for GLP/OYCP Students. GLP and OYCP cadets are commissioned as line officers in the grade of second lieutenant upon completion of AFROTC and their law degree. Upon successful completion of all GLP/OYCP requirements, including successfully passing a state Bar Exam, candidates are called to EAD in the judge advocate career field in the grade of first lieutenant and are typically promoted to the grade of captain after six months. The minimum ADSC is four years. NOTE: Do not enter the Judge Advocate Category on the AF Form 133.
 
@@ -279,7 +306,9 @@
 
 ----
 
-#### 12.10.{#12_10} Declination of Appointment. If for any reason, a cadet declines appointment as a commissioned officer, initiate disenrollment action. Change the DOC in WINGS to the end of the contracted FY. Immediately notify AFPC/DPSIP of pending disenrollment action.
+#### 12.10.{#12_10} Declination of Appointment.
+
+If for any reason, a cadet declines appointment as a commissioned officer, initiate disenrollment action. Change the DOC in WINGS to the end of the contracted FY. Immediately notify AFPC/DPSIP of pending disenrollment action.
 
 ----
 
@@ -291,7 +320,9 @@
 
 + 12.11.1.2. Similarly, recertification of the AF Form 3010 is accomplished by signing the "Applicant Final Certification" section of a new form. The AFROTC representative must sign the form. Once completed, attach the recertified form to the original AF Form 3010.
 
-##### 12.11.2.{#12_11_2} Completion of AF Form 133. In accordance with AFI 36-2006, complete the AF Form 133 the Oath of Office (Military Personnel) and Certificate of Commission, and the Certificate of Commissioning and the instructions contained on the AF Form 133.
+##### 12.11.2.{#12_11_2} Completion of AF Form 133.
+
+In accordance with AFI 36-2006, complete the AF Form 133 the Oath of Office (Military Personnel) and Certificate of Commission, and the Certificate of Commissioning and the instructions contained on the AF Form 133.
 
 + 12.11.2.1. The grade entered is "Second Lieutenant, USAF."
 
@@ -313,7 +344,9 @@
 ##### 12.11.7.{#12_11_7} Reserve Appointment Order (Attachment 43.) Ensure each cadet's Source of Commission (SOC) code is correct on this order. The SOC codes are listed in Attachment
 44. Maintain the original appointment order in detachment files and issue copies according to Attachment 35 (AF Form 24 package).
 
-##### 12.11.8.{#12_11_8} Health Insurance Statement. IAW FY04 and FY06 National Defense Authorization Acts, Reserve officers awaiting EAD are entitled to active duty health care benefits. New Second Lieutenants are eligible for TRICARE coverage after commissioning and before EAD. Benefits are only extended to members without Other Health Insurance (OHI) provided through a civilian company. Dependents are not entitled to medical benefits until the officer enters EAD. To be "eligible" for benefits, newly commissioned Lieutenants must be updated in DEERS. Detachments are required to update their graduates "other health insurance" certification in WINGS within 3 days of commissioning. HQ AFROTC will provide a weekly OHI roster to HQ USAF/REPX for DEERS eligibility updating. The following are possible scenarios and corresponding action:
+##### 12.11.8.{#12_11_8} Health Insurance Statement.
+
+IAW FY04 and FY06 National Defense Authorization Acts, Reserve officers awaiting EAD are entitled to active duty health care benefits. New Second Lieutenants are eligible for TRICARE coverage after commissioning and before EAD. Benefits are only extended to members without Other Health Insurance (OHI) provided through a civilian company. Dependents are not entitled to medical benefits until the officer enters EAD. To be "eligible" for benefits, newly commissioned Lieutenants must be updated in DEERS. Detachments are required to update their graduates "other health insurance" certification in WINGS within 3 days of commissioning. HQ AFROTC will provide a weekly OHI roster to HQ USAF/REPX for DEERS eligibility updating. The following are possible scenarios and corresponding action:
 
 + 12.11.8.1. WINGS prevents updating commissioning data without the detachment personnel verifying the "Cadet Has Personal Medical Insurance" block. Detachment personnel must update WINGS with the date the commissionee signed the Health Insurance Statement (Attachment 46) prior to the commissioning date. The following are possible scenarios and corresponding action:
 
@@ -333,15 +366,23 @@
 
 #### 12.12.{#12_12} Post-Commissioning Actions.
 
-##### 12.12.1.{#12_12_1} Transmittal of AF Form 24 Package (Commissioning Package). Within five workdays after appointment, forward the AF Form 24 package (with attachments) to AFPC/DPSIPV with a memorandum of transmittal letter (USAF/JAX for GLP; AFPC/DPAME for Pre-HPP). (Reference Attachment 35)
+##### 12.12.1.{#12_12_1} Transmittal of AF Form 24 Package (Commissioning Package).
 
-##### 12.12.2.{#12_12_2} Memorandum of Transmittal. This letter must include the following: name, category, SSN, DOC, SOC, College Scholarship Program (CSP) status, CSP terms completed, and CSP termination date.
+Within five workdays after appointment, forward the AF Form 24 package (with attachments) to AFPC/DPSIPV with a memorandum of transmittal letter (USAF/JAX for GLP; AFPC/DPAME for Pre-HPP). (Reference Attachment 35)
+
+##### 12.12.2.{#12_12_2} Memorandum of Transmittal.
+
+This letter must include the following: name, category, SSN, DOC, SOC, College Scholarship Program (CSP) status, CSP terms completed, and CSP termination date.
 
 ##### 12.12.3.{#12_12_3} Finalize all updates to commission a cadet in WINGS NLT three workdays after appointment. Reference WINGS user guide.
 
-##### 12.12.4.{#12_12_4} Submission of Transcripts to AFIT. AFIT is required to establish an academic file for all newly commissioned officers. The detachment must forward an official transcript indicating the degree awarded with appropriate seals, embossments, or authentication, to AFIT Academic Coding Branch NLT 90 days after commissioning.
+##### 12.12.4.{#12_12_4} Submission of Transcripts to AFIT.
 
-##### 12.12.5.{#12_12_5} Retention of Records. File and maintain copies of all documents in the cadet's UPRG for one year. Final disposition instructions for AFROTC cadet records are contained in the Records Disposition Schedule (RDS) in AFRIMS. Do not retire any cadet records to the staging area.
+AFIT is required to establish an academic file for all newly commissioned officers. The detachment must forward an official transcript indicating the degree awarded with appropriate seals, embossments, or authentication, to AFIT Academic Coding Branch NLT 90 days after commissioning.
+
+##### 12.12.5.{#12_12_5} Retention of Records.
+
+File and maintain copies of all documents in the cadet's UPRG for one year. Final disposition instructions for AFROTC cadet records are contained in the Records Disposition Schedule (RDS) in AFRIMS. Do not retire any cadet records to the staging area.
 
 ----
 
@@ -393,7 +434,9 @@
 
 ----
 
-#### 12.15.{#12_15} Commissioning Discrepancies. If an individual is commissioned and is later discovered ineligible for a commission, notify AFROTC/RRFP immediately.
+#### 12.15.{#12_15} Commissioning Discrepancies.
+
+If an individual is commissioned and is later discovered ineligible for a commission, notify AFROTC/RRFP immediately.
 
 ----
 
@@ -417,7 +460,9 @@
 
 ----
 
-#### 12.17.{#12_17} Post-Commissioning Responsibilities. Following commissioning but prior to reporting for active duty, cadets awaiting their call to EAD are on inactive reserve status and belong to ARPC. Detachments should maintain contact with these cadets and serve as the cadet's first line of support. If the Detachment/CC becomes aware of misconduct on the part of a newly commissioned 2d Lt waiting for EAD, they should contact the Holm Center/JA. The Holm Center/JA will coordinate details and work with ARPC/JA on the course of action.
+#### 12.17.{#12_17} Post-Commissioning Responsibilities.
+
+Following commissioning but prior to reporting for active duty, cadets awaiting their call to EAD are on inactive reserve status and belong to ARPC. Detachments should maintain contact with these cadets and serve as the cadet's first line of support. If the Detachment/CC becomes aware of misconduct on the part of a newly commissioned 2d Lt waiting for EAD, they should contact the Holm Center/JA. The Holm Center/JA will coordinate details and work with ARPC/JA on the course of action.
 
 ----
 
@@ -425,9 +470,13 @@
 
 ##### 12.18.1.{#12_18_1} An ROTC graduate of another Service may request consideration for appointment as a commissioned officer in the Air Force, provided the individual meets the eligibility requirements listed below and is granted a conditional release from the current commissioning service. Approved applicants are ordered to active military service with the Air Force as an Air Force officer and are required to serve at least four years of active service before becoming eligible for separation or release from active duty. Applicants for flying training incur 6 years (RPA, CSO and Air Battle Manager) or 10 years (pilot) ADSCs after award of aeronautical rating.
 
-##### 12.18.2.{#12_18_2} Eligibility. An applicant must meet minimum AFROTC eligibility requirements as outlined in Chapter 4 of this instruction.
+##### 12.18.2.{#12_18_2} Eligibility.
 
-##### 12.18.3.{#12_18_3} Application Procedures. A cadet who desires appointment in the Air Force must apply under the instructions of the current commissioning service. Before commissioning and entry on active duty however, the Air Force requires:
+An applicant must meet minimum AFROTC eligibility requirements as outlined in Chapter 4 of this instruction.
+
+##### 12.18.3.{#12_18_3} Application Procedures.
+
+A cadet who desires appointment in the Air Force must apply under the instructions of the current commissioning service. Before commissioning and entry on active duty however, the Air Force requires:
 
 + 12.18.3.1. An AF Form 24, Application for Appointment as Reserve of the Air Force or USAF Without Component.
 
@@ -445,7 +494,9 @@
 
 + 12.18.3.8. A statement of reasons for requesting transfer, dated and signed by the applicant.
 
-##### 12.18.4.{#12_18_4} Processing Procedures. Forward applications to AFROTC/RRFP via AFROTC Form 22. Include the documents listed in paragraph 12.18.3 above as attachments. If approved, AFROTC/RRFP will award an EA. The detachment must then contract the individual into the ORS and contact AFROTC/DOT for a FT assignment. Provide a copy of the completed DD Form 4, Enlistment/Reenlistment Document – Armed Forces of the United States, and the Reserve Order to the releasing service to secure the individual's release. Ensure the individual is gained to WINGS according to proper procedures.
+##### 12.18.4.{#12_18_4} Processing Procedures.
+
+Forward applications to AFROTC/RRFP via AFROTC Form 22. Include the documents listed in paragraph 12.18.3 above as attachments. If approved, AFROTC/RRFP will award an EA. The detachment must then contract the individual into the ORS and contact AFROTC/DOT for a FT assignment. Provide a copy of the completed DD Form 4, Enlistment/Reenlistment Document – Armed Forces of the United States, and the Reserve Order to the releasing service to secure the individual's release. Ensure the individual is gained to WINGS according to proper procedures.
 
 + 12.18.4.1. Contact HQ AFPC/DPSIP for guidance on submitting an AFROTC Form 53.
 

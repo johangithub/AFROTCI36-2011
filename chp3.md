@@ -1,4 +1,3 @@
-
 #### 3.1.{#3_1} Purpose.
 
 ##### 3.1.1.{#3_1_1} The AFROTC Scholarship Program is designed solely to support the overall AFROTC mission to recruit and retain students to meet United States Air Force officer production requirements. The program provides an incentive to attract and retain high quality individuals whose academic specialties, leadership potential, and personal and physical qualities meet Air Force accession objectives. The OPR for this chapter is AFROTC/RRU.
@@ -317,8 +316,7 @@
 
 ##### 3.19.2.{#3_19_2} AFROTC/RRU will notify detachments via ARMS to submit their qualified ICSP nominees using WINGS. The nomination window will be open as determined by HQ AFROTC/RR. The nomination process consists of two steps: (1) rank order all cadets within their AS year, and (2) nominate only eligible non-scholarship cadets by AS year.
 
-	+ 3.19.2.1.1. The Detachment/CCs will rank-order all of their current cadets by AS class (AS500 cadets will be ranked with the AS200/250 cadets, since they will be attending field training and POC together), whether competing or not, from
-#1 to end (or last). Do not include special students. WINGS will compute the Relative Standing Score (RSS) based on the Detachment/CC Ranking (DCR) and the class size. Detachment/CCs should rank cadets based on their officer potential.
+	+ 3.19.2.1.1. The Detachment/CCs will rank-order all of their current cadets by AS class (AS500 cadets will be ranked with the AS200/250 cadets, since they will be attending field training and POC together), whether competing or not, from #1 to end (or last). Do not include special students. WINGS will compute the Relative Standing Score (RSS) based on the Detachment/CC Ranking (DCR) and the class size. Detachment/CCs should rank cadets based on their officer potential.
 
 	+ 3.19.2.1.2. Do not submit nominees for the scholarship if you do not want them to receive a scholarship.
 

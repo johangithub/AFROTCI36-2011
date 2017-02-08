@@ -1,5 +1,6 @@
+#### 8.1.{#8_1} General Information.
 
-#### 8.1.{#8_1} General Information. This chapter explains the purpose of enrollment allocations (EA) and establishes selection procedures for POC applicants. It also explains basic eligibility requirements common to EAs and provides an event schedule. The OPR for this chapter is AFROTC/RRF.
+This chapter explains the purpose of enrollment allocations (EA) and establishes selection procedures for POC applicants. It also explains basic eligibility requirements common to EAs and provides an event schedule. The OPR for this chapter is AFROTC/RRF.
 
 ----
 
@@ -33,7 +34,9 @@
 
 ----
 
-#### 8.5.{#8_5} Notification to Detachments. Detachments will be notified of selection of EA and non- line categories through WINGS in the Category Selection (CAT-SEL) field. The field will state "officer -T" if the cadet is given an EA in a technical major, "officer-N" if the cadet is given an EA in a non- technical major, "Nurse" if the cadet is given an EA for nursing, and will remain blank if not selected.
+#### 8.5.{#8_5} Notification to Detachments.
+
+Detachments will be notified of selection of EA and non- line categories through WINGS in the Category Selection (CAT-SEL) field. The field will state "officer -T" if the cadet is given an EA in a technical major, "officer-N" if the cadet is given an EA in a non- technical major, "Nurse" if the cadet is given an EA for nursing, and will remain blank if not selected.
 
 ----
 
@@ -55,7 +58,9 @@
 
 ----
 
-#### 8.7.{#8_7} Detachment Screening Process. Screen applicants to determine their motivation toward pursuing an Air Force commission. Do not nominate unqualified or unmotivated applicants. Do not use the PSP process as a screening process for selection. That is, if detachments believe a cadet should not be enrolled in the POC, make the cut; do not use the PSP as the go/no-go decision.
+#### 8.7.{#8_7} Detachment Screening Process.
+
+Screen applicants to determine their motivation toward pursuing an Air Force commission. Do not nominate unqualified or unmotivated applicants. Do not use the PSP process as a screening process for selection. That is, if detachments believe a cadet should not be enrolled in the POC, make the cut; do not use the PSP as the go/no-go decision.
 
 ----
 
@@ -105,7 +110,9 @@
 
 ----
 
-#### 8.11.{#8_11} Actions Required by Cadets. Nursing students must provide the detachment documentation of acceptance into a certified Nursing Program. This normally occurs no later than the junior year.
+#### 8.11.{#8_11} Actions Required by Cadets.
+
+Nursing students must provide the detachment documentation of acceptance into a certified Nursing Program. This normally occurs no later than the junior year.
 
 ----
 

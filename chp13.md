@@ -1,5 +1,7 @@
 
-#### 13.1.{#13_1} General Information. This chapter outlines detachment requirements for management of AECP and NECP students once enrolled at host or cross-town schools. For exceptions, contact AFROTC/RRUE. Requirements regarding NECP students will be coordinated by AFROTC/RRUE through AFPC/DPAMN. Detachments should contact AFROTC/RRUE with any issues regarding NECP students. The OPR for this chapter is AFROTC/RRU.
+#### 13.1.{#13_1} General Information.
+
+This chapter outlines detachment requirements for management of AECP and NECP students once enrolled at host or cross-town schools. For exceptions, contact AFROTC/RRUE. Requirements regarding NECP students will be coordinated by AFROTC/RRUE through AFPC/DPAMN. Detachments should contact AFROTC/RRUE with any issues regarding NECP students. The OPR for this chapter is AFROTC/RRU.
 
 ----
 
@@ -89,15 +91,25 @@
 
 ##### 13.4.1.{#13_4_1} AECP/NECP students are active duty members and will conduct themselves accordingly. Their actions reflect directly on the image of the Air Force. Failure by military personnel to comply with Dress and Appearance standards and to maintain the Electronic DD Form 93 (vRED) is a violation of Article 92, UCMJ, and may result in disciplinary action.
 
-##### 13.4.2.{#13_4_2} Dress and Appearance. Violation of provisions set forth in this paragraph may result in disciplinary action under Article 92 of the UCMJ. Students will comply with the dress and grooming provisions of AFI 36-2903, Dress and Personal Appearance of Air Force Personnel, while assigned to the detachment to include adhering to grooming standards when they are attending classes. The appropriate uniform will be worn when conducting official business at a military installation or when required by current directives. Commanders will set policy to have students wear uniform at the detachment at least once a month to ensure students are in compliance with AFI 36-2903 and detachment policy.
+##### 13.4.2.{#13_4_2} Dress and Appearance.
 
-##### 13.4.3.{#13_4_3} Uniform Items. Do not issue uniform items to AECP/NECP students since they receive an annual clothing allowance. When required to wear a uniform, AECP/NECP students will wear the uniform IAW AFI 36-2903. They are not authorized to purchase uniform items from the detachment at any time. They are authorized to wear the Airman Battle Uniform (ABU) when mandated by the Detachment Commander.
+Violation of provisions set forth in this paragraph may result in disciplinary action under Article 92 of the UCMJ. Students will comply with the dress and grooming provisions of AFI 36-2903, Dress and Personal Appearance of Air Force Personnel, while assigned to the detachment to include adhering to grooming standards when they are attending classes. The appropriate uniform will be worn when conducting official business at a military installation or when required by current directives. Commanders will set policy to have students wear uniform at the detachment at least once a month to ensure students are in compliance with AFI 36-2903 and detachment policy.
 
-##### 13.4.4.{#13_4_4} Academic Integrity. All students are expected to adhere to the highest standards of academic integrity. Students are to pursue their academic programs without unauthorized assistance and are to give credit to others' words and ideas so as to avoid committing plagiarism. Confirmed plagiarism is cause for removal from AECP or NECP.
+##### 13.4.3.{#13_4_3} Uniform Items.
 
-##### 13.4.5.{#13_4_5} Mobilization and Emergency Instructions. The campus is considered the duty station and therefore AECP/NECP students must be included on the detachment recall roster. AECP/NECP students will report to the AFROTC detachment in the event of mobilization and follow instructions issued by the Detachment Commander.
+Do not issue uniform items to AECP/NECP students since they receive an annual clothing allowance. When required to wear a uniform, AECP/NECP students will wear the uniform IAW AFI 36-2903. They are not authorized to purchase uniform items from the detachment at any time. They are authorized to wear the Airman Battle Uniform (ABU) when mandated by the Detachment Commander.
 
-##### 13.4.6.{#13_4_6} Off-Duty Employment. AECP/NECP students are full-time students whose task is to complete their degree programs in the minimum time practical and are expected to devote full-time to their academic programs.
+##### 13.4.4.{#13_4_4} Academic Integrity.
+
+All students are expected to adhere to the highest standards of academic integrity. Students are to pursue their academic programs without unauthorized assistance and are to give credit to others' words and ideas so as to avoid committing plagiarism. Confirmed plagiarism is cause for removal from AECP or NECP.
+
+##### 13.4.5.{#13_4_5} Mobilization and Emergency Instructions.
+
+The campus is considered the duty station and therefore AECP/NECP students must be included on the detachment recall roster. AECP/NECP students will report to the AFROTC detachment in the event of mobilization and follow instructions issued by the Detachment Commander.
+
+##### 13.4.6.{#13_4_6} Off-Duty Employment.
+
+AECP/NECP students are full-time students whose task is to complete their degree programs in the minimum time practical and are expected to devote full-time to their academic programs.
 
 + 13.4.6.1. Per AFPC/DPMAN, NECP are not authorized off-duty employment (no waivers considered). Off-duty employment includes any arrangement by which a student receives payment for their services.
 
@@ -105,7 +117,9 @@
 
 ----
 
-#### 13.5.{#13_5} Post-Selection/Pre-Arrival of AECP Student. Violation of provision set forth in this paragraph by AECP/NECP students may result in disciplinary action under Article 92 of the UCMJ.
+#### 13.5.{#13_5} Post-Selection/Pre-Arrival of AECP Student.
+
+Violation of provision set forth in this paragraph by AECP/NECP students may result in disciplinary action under Article 92 of the UCMJ.
 
 ##### 13.5.1.{#13_5_1} Once the student is selected for participation in AECP, they prepare for entry and arrival to their projected AFROTC detachment. This is a two-phase process to ensure proper entry into the program.
 
@@ -133,7 +147,9 @@
 
 ----
 
-#### 13.6.{#13_6} Reporting. AECP/NECP students will report to the detachments NET 14 days and NLT 5 days prior to their class start date. Once the student arrives at the detachment, the detachment will notify AFROTC/RRUE via telecom or email. Detachments will enter the student in WINGS.
+#### 13.6.{#13_6} Reporting.
+
+AECP/NECP students will report to the detachments NET 14 days and NLT 5 days prior to their class start date. Once the student arrives at the detachment, the detachment will notify AFROTC/RRUE via telecom or email. Detachments will enter the student in WINGS.
 
 ----
 
@@ -161,39 +177,57 @@
 
 ----
 
-#### 13.8.{#13_8} Active Duty Requirements. All AECP/NECP students are required to complete all ancillary training requirements, to participate in the Demand Reduction Program, and any other programs deemed appropriate by AFROTC/RRUE and detachment personnel.
+#### 13.8.{#13_8} Active Duty Requirements.
+
+All AECP/NECP students are required to complete all ancillary training requirements, to participate in the Demand Reduction Program, and any other programs deemed appropriate by AFROTC/RRUE and detachment personnel.
 
 ----
 
-#### 13.9.{#13_9} Enrollment Allocations. AECP/NECP students are guaranteed to receive an EA. EAs will be requested by the detachment through WINGS upon confirmation of the student's arrival. AFROTC/RRUE will update the EA in WINGS.
+#### 13.9.{#13_9} Enrollment Allocations.
+
+AECP/NECP students are guaranteed to receive an EA. EAs will be requested by the detachment through WINGS upon confirmation of the student's arrival. AFROTC/RRUE will update the EA in WINGS.
 
 ----
 
-#### 13.10.{#13_10} Medical Records. In accordance with AFI 41-210, T r i care Operations and Patient Administration Functions, paragraph 4.7, personnel and their family members may maintain their own medical records when the nearest MTF is not accessible. However, if they are enrolled at an MTF near their location, the records must be maintained at the MTF of enrollment.
+#### 13.10.{#13_10} Medical Records.
+
+In accordance with AFI 41-210, T r i care Operations and Patient Administration Functions, paragraph 4.7, personnel and their family members may maintain their own medical records when the nearest MTF is not accessible. However, if they are enrolled at an MTF near their location, the records must be maintained at the MTF of enrollment.
 
 ----
 
-#### 13.11.{#13_11} Electronic DD Form 93, Record of Emergency Data (vRED). The vRED located in the vMPF is the only document used by the Air Force to notify next of kin in cases of serious illness, injury, or death, and to determine beneficiaries of pay and allowances. The electronic form fulfills the requirement. Changes in emergency data must be updated immediately via vMPF. A copy of the vRED printout will be maintained by the detachment in the student's PIF. Failure to maintain ones vRED is punishable under Article 92 of the UCMJ.
+#### 13.11.{#13_11} Electronic DD Form 93, Record of Emergency Data (vRED).
+
+The vRED located in the vMPF is the only document used by the Air Force to notify next of kin in cases of serious illness, injury, or death, and to determine beneficiaries of pay and allowances. The electronic form fulfills the requirement. Changes in emergency data must be updated immediately via vMPF. A copy of the vRED printout will be maintained by the detachment in the student's PIF. Failure to maintain ones vRED is punishable under Article 92 of the UCMJ.
 
 ----
 
-#### 13.12.{#13_12} Enlisted Performance Reports. AECP/NECP students will not receive EPRs.
+#### 13.12.{#13_12} Enlisted Performance Reports.
+
+AECP/NECP students will not receive EPRs.
 
 ----
 
-#### 13.13.{#13_13} Promotion. In accordance with AFI 36-2502, Airman Promotion/Demotion Programs, chapter 4, Airmen are ineligible for promotion consideration when entering Air Force commissioning programs on or before the Promotion Eligibility Cutoff Date (PECD). Airmen in the grades of SrA and below will be promoted to SSgt effective 1 day prior to departure from losing base, but NET the 11th day before their RNLTD. MPSs will remove the projected promotions of SSgt selects from PDS when the Promotion Selection Number (PSN) is after program entry and place letters in their records indicating grade, cycle and PSN. IAW AFI 36-2013, Officer Training School (OTS) and Enlisted Commissioning Programs (ECPS), Table 2.6, Rule 9, qualified Airmen selected for promotion to the grade of TSgt or above, will be promoted on the normal effective date. Counsel students who were promoted to SSgt for the purpose of entry into AECP/NECP via AFROTC Form 16 of demotion if disenrolled from AECP or NECP.
+#### 13.13.{#13_13} Promotion.
+
+In accordance with AFI 36-2502, Airman Promotion/Demotion Programs, chapter 4, Airmen are ineligible for promotion consideration when entering Air Force commissioning programs on or before the Promotion Eligibility Cutoff Date (PECD). Airmen in the grades of SrA and below will be promoted to SSgt effective 1 day prior to departure from losing base, but NET the 11th day before their RNLTD. MPSs will remove the projected promotions of SSgt selects from PDS when the Promotion Selection Number (PSN) is after program entry and place letters in their records indicating grade, cycle and PSN. IAW AFI 36-2013, Officer Training School (OTS) and Enlisted Commissioning Programs (ECPS), Table 2.6, Rule 9, qualified Airmen selected for promotion to the grade of TSgt or above, will be promoted on the normal effective date. Counsel students who were promoted to SSgt for the purpose of entry into AECP/NECP via AFROTC Form 16 of demotion if disenrolled from AECP or NECP.
 
 ----
 
-#### 13.14.{#13_14} Basic Allowance for Housing and Basic Allowance for Subsistence. NECP/AECP students are authorized basic allowance for housing at the local rate and for subsistence effective upon arrival/in-processing at their AFROTC detachment.
+#### 13.14.{#13_14} Basic Allowance for Housing and Basic Allowance for Subsistence.
+
+NECP/AECP students are authorized basic allowance for housing at the local rate and for subsistence effective upon arrival/in-processing at their AFROTC detachment.
 
 ----
 
-#### 13.15.{#13_15} Required Examinations and Immunizations. Violation of provisions set forth in this paragraph by AECP/NECP students may result in punishment under Article 92 of the UCMJ. Students should be notified by their servicing MTF through their AFROTC detachment of required annual dental appointments, physical health assessments (PHA), or immunizations. Personal involvement by the member may be necessary to ensure routine exams are scheduled with minimum interruption of classes.
+#### 13.15.{#13_15} Required Examinations and Immunizations.
+
+Violation of provisions set forth in this paragraph by AECP/NECP students may result in punishment under Article 92 of the UCMJ. Students should be notified by their servicing MTF through their AFROTC detachment of required annual dental appointments, physical health assessments (PHA), or immunizations. Personal involvement by the member may be necessary to ensure routine exams are scheduled with minimum interruption of classes.
 
 ----
 
-#### 13.16.{#13_16} Billing Procedures for Routine and Emergency Medical Treatment to Include Travel. Students will follow the billing and travel procedures established by the Detachment Commander and the local medical facility. Students and their dependents must check with their regional TRICARE service center to ensure compliance with procedures and entitlements available under their selected TRICARE option.
+#### 13.16.{#13_16} Billing Procedures for Routine and Emergency Medical Treatment to Include Travel.
+
+Students will follow the billing and travel procedures established by the Detachment Commander and the local medical facility. Students and their dependents must check with their regional TRICARE service center to ensure compliance with procedures and entitlements available under their selected TRICARE option.
 
 ----
 
@@ -259,7 +293,9 @@
 
 ----
 
-#### 13.21.{#13_21} Regular Terms. Full-time for undergraduate is the hours specified by the university. If the university does not specify, use 12 hours per term.
+#### 13.21.{#13_21} Regular Terms.
+
+Full-time for undergraduate is the hours specified by the university. If the university does not specify, use 12 hours per term.
 
 ----
 
@@ -271,7 +307,9 @@
 
 ----
 
-#### 13.23.{#13_23} Pre- and Post-Summer Sessions. At institutions with pre- or post-summer sessions, 2 to 3 hours will be taken each session in addition to the normal summer term loads.
+#### 13.23.{#13_23} Pre- and Post-Summer Sessions.
+
+At institutions with pre- or post-summer sessions, 2 to 3 hours will be taken each session in addition to the normal summer term loads.
 
 ----
 
@@ -283,27 +321,39 @@
 
 ----
 
-#### 13.25.{#13_25} Preparation of the Academic Plan. Process the academic plan in accordance with Chapter 3 of this instruction. The detachment must update WINGS with the projected graduation date once the academic plan is complete. Notify AFROTC/RRUE of any changes in courses that may negatively impact program completion by planned date of graduation.
+#### 13.25.{#13_25} Preparation of the Academic Plan.
+
+Process the academic plan in accordance with Chapter 3 of this instruction. The detachment must update WINGS with the projected graduation date once the academic plan is complete. Notify AFROTC/RRUE of any changes in courses that may negatively impact program completion by planned date of graduation.
 
 ----
 
-#### 13.26.{#13_26} Changes in Academic Plans. All changes in academic plans must be approved by the Detachment Commander in advance. Whenever any program change is anticipated, students must submit a revised academic plan for Detachment Commander approval. All students must adhere to their current academic plans without deviation. Students who drop, add, or change a course without prior approval of the Detachment Commander will be required to pay for the course. By deviating from an approved course of study, students are subject to disciplinary action. AFROTC/RRUE (AFPC/DPAMN for NECP students) must approve all DOG changes. Any changes that will require the student to exceed 36 months (24 months for NECP) of total program time require AFROTC/RRUE approval. See paragraph 13.33 or curtailment and extension request details.
+#### 13.26.{#13_26} Changes in Academic Plans.
+
+All changes in academic plans must be approved by the Detachment Commander in advance. Whenever any program change is anticipated, students must submit a revised academic plan for Detachment Commander approval. All students must adhere to their current academic plans without deviation. Students who drop, add, or change a course without prior approval of the Detachment Commander will be required to pay for the course. By deviating from an approved course of study, students are subject to disciplinary action. AFROTC/RRUE (AFPC/DPAMN for NECP students) must approve all DOG changes. Any changes that will require the student to exceed 36 months (24 months for NECP) of total program time require AFROTC/RRUE approval. See paragraph 13.33 or curtailment and extension request details.
 
 ----
 
-#### 13.27.{#13_27} Grade Reports. Each student is responsible for forwarding grade reports to the Detachment Commander immediately after the close of each term. Grade reports must include clarification notes whenever incomplete, deferred, or substandard grades are reported. The clarification must specifically identify any impact the grades have upon the student's program and the approach (including a time line) that will be taken to correct deficiencies that may prevent or delay graduation. See paragraph 13.32 for academic standards.
+#### 13.27.{#13_27} Grade Reports.
+
+Each student is responsible for forwarding grade reports to the Detachment Commander immediately after the close of each term. Grade reports must include clarification notes whenever incomplete, deferred, or substandard grades are reported. The clarification must specifically identify any impact the grades have upon the student's program and the approach (including a time line) that will be taken to correct deficiencies that may prevent or delay graduation. See paragraph 13.32 for academic standards.
 
 ----
 
-#### 13.28.{#13_28} Attendance of Scheduled Classes. AECP/NECP students will attend all scheduled classes, regardless of university policy, unless excused by the Detachment Commander. Students must coordinate class absences with their academic instructors/counselors prior to contacting the Detachment Commander to be excused from attendance. The Detachment Commander will ensure that each student is briefed on local procedures of accountability. Failure to attend scheduled classes or failure to comply with local personnel accountability procedures will result in administrative action, disciplinary action, and/or removal from the AECP/NECP program. Absences due to illness require documentation from their Primary Care Manager (PCM) or equivalent (e.g., quarters slips, convalescent leave). If seen by non-MTF physician, paperwork will need to be coordinated through the servicing MTF.
+#### 13.28.{#13_28} Attendance of Scheduled Classes.
+
+AECP/NECP students will attend all scheduled classes, regardless of university policy, unless excused by the Detachment Commander. Students must coordinate class absences with their academic instructors/counselors prior to contacting the Detachment Commander to be excused from attendance. The Detachment Commander will ensure that each student is briefed on local procedures of accountability. Failure to attend scheduled classes or failure to comply with local personnel accountability procedures will result in administrative action, disciplinary action, and/or removal from the AECP/NECP program. Absences due to illness require documentation from their Primary Care Manager (PCM) or equivalent (e.g., quarters slips, convalescent leave). If seen by non-MTF physician, paperwork will need to be coordinated through the servicing MTF.
 
 ----
 
-#### 13.29.{#13_29} Change of Academic Status due to University Action. All students will notify their Detachment Commander of any university action which changes their status (for example, probation, advancement to candidacy or full graduate standing, suspension, reinstatement, etc.) The notification must provide complete details including the reason for action, effect on academic program, date the situation is expected to change (if applicable), and required student action. Students notified of any adverse action by the university will advise their Detachment Commander within one duty day of their receipt of notification. The Detachment Commander will provide instructions concerning duty requirements and will notify AFROTC/RRUE.
+#### 13.29.{#13_29} Change of Academic Status due to University Action.
+
+All students will notify their Detachment Commander of any university action which changes their status (for example, probation, advancement to candidacy or full graduate standing, suspension, reinstatement, etc.) The notification must provide complete details including the reason for action, effect on academic program, date the situation is expected to change (if applicable), and required student action. Students notified of any adverse action by the university will advise their Detachment Commander within one duty day of their receipt of notification. The Detachment Commander will provide instructions concerning duty requirements and will notify AFROTC/RRUE.
 
 ----
 
-#### 13.30.{#13_30}  Academic Recognition. Students receiving recognition for outstanding academic achievement or election to membership in honorary fraternities or societies must notify their Detachment Commander. If the recognition includes compensation of monetary value then the student must request permission to accept the compensation via letter to the Detachment Commander. This request must include copies of documents which clearly describe the intent and value of the compensation and a statement from the student indicating how the compensation will be used. In no case will the student accept and use compensation without approval. Students are encouraged to participate in such activities when academic programs permit.
+#### 13.30.{#13_30}  Academic Recognition.
+
+Students receiving recognition for outstanding academic achievement or election to membership in honorary fraternities or societies must notify their Detachment Commander. If the recognition includes compensation of monetary value then the student must request permission to accept the compensation via letter to the Detachment Commander. This request must include copies of documents which clearly describe the intent and value of the compensation and a statement from the student indicating how the compensation will be used. In no case will the student accept and use compensation without approval. Students are encouraged to participate in such activities when academic programs permit.
 
 ----
 
@@ -397,7 +447,9 @@ Figure 13.1. Example Email to HQ AFROTC/RRUE for Notification of Conditional Eve
 
 ----
 
-#### 13.36.{#13_36} Disenrollment Package. Students removed from AECP/NECP for any reason require disenrollment investigation and are issued a DD Form 785, Record of Disenrollment from Officer Candidate-Type Training. Submit disenrollment packages to AFROTC/RRFD IAW Chapter 11of this instruction.
+#### 13.36.{#13_36} Disenrollment Package.
+
+Students removed from AECP/NECP for any reason require disenrollment investigation and are issued a DD Form 785, Record of Disenrollment from Officer Candidate-Type Training. Submit disenrollment packages to AFROTC/RRFD IAW Chapter 11of this instruction.
 
 ----
 
@@ -413,11 +465,15 @@ Figure 13.1. Example Email to HQ AFROTC/RRUE for Notification of Conditional Eve
 
 ----
 
-#### 13.38.{#13_38} Graduation Ceremony Policy. The student's official completion governs campus departure date. While attending university graduation ceremonies are encouraged, the student normally will not be allowed to remain on campus for the ceremony if there are more than 7 days between the completion of final examinations and the ceremony unless the student takes leave (delay enroute to their next assignment). Students will, therefore, ensure that their attendance at the graduation ceremony is not a mandatory requirement for award of a degree. If attendance at the graduation ceremony is a mandatory requirement, the departure date will be adjusted and the student will work at the detachment or be on leave.
+#### 13.38.{#13_38} Graduation Ceremony Policy.
+
+The student's official completion governs campus departure date. While attending university graduation ceremonies are encouraged, the student normally will not be allowed to remain on campus for the ceremony if there are more than 7 days between the completion of final examinations and the ceremony unless the student takes leave (delay enroute to their next assignment). Students will, therefore, ensure that their attendance at the graduation ceremony is not a mandatory requirement for award of a degree. If attendance at the graduation ceremony is a mandatory requirement, the departure date will be adjusted and the student will work at the detachment or be on leave.
 
 ----
 
-#### 13.39.{#13_39} Security Clearance Procedures. AECP/NECP students must have at least a SECRET security clearance based on an Entrance National Agency Check (ENTNAC) prior to their commissioning. They may use their ENTNAC from their enlisted active duty service according to AFI 36-2005, Appointment in Commissioned Grades and Designation and Assignment in Professional Categories – Reserve of the Air Force and United States Air Force. The detachment must confirm each AECP/NECP student's security clearance level with their servicing MPS upon initial assignment. Contact the servicing security forces organization if the detachment determines that the AECP/NECP student does not have the appropriate security clearance. Ensure that a security clearance is requested as required by Air Force instructions.
+#### 13.39.{#13_39} Security Clearance Procedures.
+
+AECP/NECP students must have at least a SECRET security clearance based on an Entrance National Agency Check (ENTNAC) prior to their commissioning. They may use their ENTNAC from their enlisted active duty service according to AFI 36-2005, Appointment in Commissioned Grades and Designation and Assignment in Professional Categories – Reserve of the Air Force and United States Air Force. The detachment must confirm each AECP/NECP student's security clearance level with their servicing MPS upon initial assignment. Contact the servicing security forces organization if the detachment determines that the AECP/NECP student does not have the appropriate security clearance. Ensure that a security clearance is requested as required by Air Force instructions.
 
 ----
 
@@ -451,40 +507,57 @@ Figure 13.1. Example Email to HQ AFROTC/RRUE for Notification of Conditional Eve
 
 ----
 
-#### 13.42.{#13_42} Commissioning Physical. AECP students must be medically certified for commissioning. Use the guidelines IAW AFI 48-123, Medical Examinations and Standards, Attachment 2, Retention. NOTE: If the student is medically disqualified, notify HQ AFROTC/RRUE immediately.
+#### 13.42.{#13_42} Commissioning Physical.
+
+AECP students must be medically certified for commissioning. Use the guidelines IAW AFI 48-123, Medical Examinations and Standards, Attachment 2, Retention. NOTE: If the student is medically disqualified, notify HQ AFROTC/RRUE immediately.
 
 ----
 
-#### 13.43.{#13_43} Qualifying Fitness Assessment (QFA). All AECP and NECP students are required to meet physical fitness, height/weight/BMI and body fat standards (if exceeding BMI) as outlined in AFI 36-2013, para. 3.9.2.6., AFRSI 36-2001, and AFI 36-2905 for accessions into OTS. This BMI and body fat assessment administered during all annual PFAs while in the program and prior to departure for OTS. Failure to meet this requirement could result in a CE and/or non- attendance at OTS and subsequent investigation for disenrollment from the AECP/NECP programs.
+#### 13.43.{#13_43} Qualifying Fitness Assessment (QFA).
+
+All AECP and NECP students are required to meet physical fitness, height/weight/BMI and body fat standards (if exceeding BMI) as outlined in AFI 36-2013, para. 3.9.2.6., AFRSI 36-2001, and AFI 36-2905 for accessions into OTS. This BMI and body fat assessment administered during all annual PFAs while in the program and prior to departure for OTS. Failure to meet this requirement could result in a CE and/or non- attendance at OTS and subsequent investigation for disenrollment from the AECP/NECP programs.
 
 ----
 
-#### 13.44.{#13_44} Transcripts. Detachments will obtain a completed transcript with confirmation of degree. Forward original transcript to AFIT/RRE and maintain a copy in the student's PIF.
+#### 13.44.{#13_44} Transcripts.
+
+Detachments will obtain a completed transcript with confirmation of degree. Forward original transcript to AFIT/RRE and maintain a copy in the student's PIF.
 
 ----
 
-#### 13.45.{#13_45} Flying Training. AECP students are not eligible to apply for any rated program until after commissioning and arrival at their first duty station.
+#### 13.45.{#13_45} Flying Training.
+
+AECP students are not eligible to apply for any rated program until after commissioning and arrival at their first duty station.
 
 ----
 
-#### 13.46.{#13_46} Assignments. Students will receive detailed processing instructions from their servicing MPS.
+#### 13.46.{#13_46} Assignments.
+
+Students will receive detailed processing instructions from their servicing MPS.
 
 ----
 
-#### 13.47.{#13_47} Departure Dates. All students departing will comply with the reporting dates specified in their orders. Emergency situations requiring a change in reporting dates must be referred to the servicing MPS through the Detachment Commander. Students desiring to remain on station prior to the projected reporting date will be utilized by the AFROTC detachment as directed by the commander.
+#### 13.47.{#13_47} Departure Dates.
+
+All students departing will comply with the reporting dates specified in their orders. Emergency situations requiring a change in reporting dates must be referred to the servicing MPS through the Detachment Commander. Students desiring to remain on station prior to the projected reporting date will be utilized by the AFROTC detachment as directed by the commander.
 
 ----
 
-#### 13.48.{#13_48} Movement of Dependents and Household Goods. Students proceeding TDY end route to their next duty station are not authorized transportation of dependents or household goods to the TDY station at government expense. However, students assigned in overseas areas where travel of dependents is prohibited or delayed for 20 weeks or more may move dependents and household goods to a designated location.
+#### 13.48.{#13_48} Movement of Dependents and Household Goods.
+
+Students proceeding TDY end route to their next duty station are not authorized transportation of dependents or household goods to the TDY station at government expense. However, students assigned in overseas areas where travel of dependents is prohibited or delayed for 20 weeks or more may move dependents and household goods to a designated location.
 
 ----
 
-#### 13.49.{#13_49} Unused Leave Balance. All positive leave balances for AECP/NECP students will be transferred to their new leave accounts after commissioning. Students cannot sell back unused leave at the time of commissioning.
+#### 13.49.{#13_49} Unused Leave Balance.
+
+All positive leave balances for AECP/NECP students will be transferred to their new leave accounts after commissioning. Students cannot sell back unused leave at the time of commissioning.
 
 ----
 
-#### 13.50.{#13_50} Tuition and Fees Estimates. AECP/NECP students are on scholarships capped at
-$15,000 and receive a textbook allowance. They are not authorized to attend schools costing over $15,000 per year in tuition and fees. AECP/NECP students are not authorized stipend since they receive full military pay and benefits. Detachments must input estimates or actual cost into WINGS for tuition and fees for each term in the AY NLT 1 Sep of the year. The AY is determined by actual class start date, no later than 30 September of each year. For new AECP/NECP appointments, estimates must be loaded into WINGS within 5 workdays of notification of the terms to be paid remaining in the AY. NOTE: Unlike AFROTC scholarships which are paid after day 45 of the fall term, AECP/NECP tuition and fees are paid at the beginning of the fall term.
+#### 13.50.{#13_50} Tuition and Fees Estimates.
+
+AECP/NECP students are on scholarships capped at $15,000 and receive a textbook allowance. They are not authorized to attend schools costing over $15,000 per year in tuition and fees. AECP/NECP students are not authorized stipend since they receive full military pay and benefits. Detachments must input estimates or actual cost into WINGS for tuition and fees for each term in the AY NLT 1 Sep of the year. The AY is determined by actual class start date, no later than 30 September of each year. For new AECP/NECP appointments, estimates must be loaded into WINGS within 5 workdays of notification of the terms to be paid remaining in the AY. NOTE: Unlike AFROTC scholarships which are paid after day 45 of the fall term, AECP/NECP tuition and fees are paid at the beginning of the fall term.
 
 ----
 
@@ -568,11 +641,15 @@ $15,000 and receive a textbook allowance. They are not authorized to attend scho
 
 ----
 
-#### 13.53.{#13_53} Graduate Record Examination (GRE). AFROTC will not reimburse AECP students who complete the GRE or other graduate school admissions exams.
+#### 13.53.{#13_53} Graduate Record Examination (GRE).
+
+AFROTC will not reimburse AECP students who complete the GRE or other graduate school admissions exams.
 
 ----
 
-#### 13.54.{#13_54} Resident Status. Many schools grant reduced or in-state tuition rates to active duty members permanently assigned to an organization within the state. Each AFROTC detachment and student should check with the school's registrar to determine resident status. Students who qualify as residents should ensure the bursar is aware of their status and AFROTC is billed accordingly. Students with spouses employed full-time at their schools should also investigate the possibility of being granted resident status or even free tuition, as some universities grant such status to full-time employees and immediate family members.
+#### 13.54.{#13_54} Resident Status.
+
+Many schools grant reduced or in-state tuition rates to active duty members permanently assigned to an organization within the state. Each AFROTC detachment and student should check with the school's registrar to determine resident status. Students who qualify as residents should ensure the bursar is aware of their status and AFROTC is billed accordingly. Students with spouses employed full-time at their schools should also investigate the possibility of being granted resident status or even free tuition, as some universities grant such status to full-time employees and immediate family members.
 
 ----
 
@@ -584,11 +661,15 @@ $15,000 and receive a textbook allowance. They are not authorized to attend scho
 
 ----
 
-#### 13.56.{#13_56} Other Benefits. Undergraduate students may be eligible for federal Basic Educational Opportunity Grants (BEOG) or similar state-funded programs. Students are encouraged to check with appropriate university financial aid offices to see whether they might be eligible for such supplemental assistance; however, AECP students must inform their university that the Air Force is paying all tuition and fees for their programs and providing a book allowance. If offered any assistance, be certain that it is not credited to the student's tuition account at the university resulting in overpayment and refund.
+#### 13.56.{#13_56} Other Benefits.
+
+Undergraduate students may be eligible for federal Basic Educational Opportunity Grants (BEOG) or similar state-funded programs. Students are encouraged to check with appropriate university financial aid offices to see whether they might be eligible for such supplemental assistance; however, AECP students must inform their university that the Air Force is paying all tuition and fees for their programs and providing a book allowance. If offered any assistance, be certain that it is not credited to the student's tuition account at the university resulting in overpayment and refund.
 
 ----
 
-#### 13.57.{#13_57} Reimbursement of Application Fees. Students are authorized reimbursement of one school application fee. Reimbursement will only be made for the school attended; other application fees for schools students applied to, but did not attend, cannot be reimbursed. Ensure this is included on the school's scholarship invoice for reimbursement.
+#### 13.57.{#13_57} Reimbursement of Application Fees.
+
+Students are authorized reimbursement of one school application fee. Reimbursement will only be made for the school attended; other application fees for schools students applied to, but did not attend, cannot be reimbursed. Ensure this is included on the school's scholarship invoice for reimbursement.
 
 ----
 
@@ -654,5 +735,7 @@ Figure 13.2. Certification Statement.
 
 ----
 
-#### 13.59.{#13_59} Textbook Allowance. AECP/NECP students will receive an annual textbook allowance. Payments are made within 3 months after entering the program for the quarters remaining in the current fiscal year and NLT December for those already active. Students must be enrolled at least 60 days of their first FY quarter in order to receive a textbook payment. Textbook allowance for subsequent quarters will be paid if the student is enrolled in the quarter at least 30 days. Students must submit a SF 1199A, Direct Deposit Sign-Up Form, via their detachment, to Holm Center/SDF by 30 Oct of each year to ensure funds are transferred into the proper account. Payment will be made via EFT into the student's specified account. NOTE: This is an allowance and is intended to defray book costs; it is not intended to completely reimburse students for these expenses.
+#### 13.59.{#13_59} Textbook Allowance.
+
+AECP/NECP students will receive an annual textbook allowance. Payments are made within 3 months after entering the program for the quarters remaining in the current fiscal year and NLT December for those already active. Students must be enrolled at least 60 days of their first FY quarter in order to receive a textbook payment. Textbook allowance for subsequent quarters will be paid if the student is enrolled in the quarter at least 30 days. Students must submit a SF 1199A, Direct Deposit Sign-Up Form, via their detachment, to Holm Center/SDF by 30 Oct of each year to ensure funds are transferred into the proper account. Payment will be made via EFT into the student's specified account. NOTE: This is an allowance and is intended to defray book costs; it is not intended to completely reimburse students for these expenses.
 

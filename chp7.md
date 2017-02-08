@@ -1,5 +1,6 @@
+#### 7.1.{#7_1} General Information.
 
-#### 7.1.{#7_1} General Information. The OPR for this Chapter is HQ AFROTC/RRF. This chapter explains the procedures to request waivers, or other data change requests, as specified in this instruction.
+The OPR for this Chapter is HQ AFROTC/RRF. This chapter explains the procedures to request waivers, or other data change requests, as specified in this instruction.
 
 ----
 
@@ -27,11 +28,15 @@
 
 ----
 
-#### 7.4.{#7_4} AFROTC Form 22 Completion. Complete instructions for the AFROTC Form 22 are located at Attachment 20. Since HQ AFROTC decisions are based on the whole-person concept, it is vital that all information shown is correct, complete, and current. If an item does not apply, enter N/A or leave blank.
+#### 7.4.{#7_4} AFROTC Form 22 Completion.
+
+Complete instructions for the AFROTC Form 22 are located at Attachment 20. Since HQ AFROTC decisions are based on the whole-person concept, it is vital that all information shown is correct, complete, and current. If an item does not apply, enter N/A or leave blank.
 
 ----
 
-#### 7.5.{#7_5} Appeals. Whenever Detachment/CCs desire to appeal an AFROTC Form 22 that was previously disapproved by AFROTC/RRFP, they must request re-consideration directly to AFROTC/RR. Ensure the correspondence includes any additional support that may not have been included in the package. Decisions will be returned to the detachment via email or a revise Form 22 response.
+#### 7.5.{#7_5} Appeals.
+
+Whenever Detachment/CCs desire to appeal an AFROTC Form 22 that was previously disapproved by AFROTC/RRFP, they must request re-consideration directly to AFROTC/RR. Ensure the correspondence includes any additional support that may not have been included in the package. Decisions will be returned to the detachment via email or a revise Form 22 response.
 
 ----
 
@@ -51,5 +56,7 @@
 
 ----
 
-#### 7.7.{#7_7} Cadet Notification. Cadets must be counseled via AFROTC Form 16 on results of all disenrollment actions and waiver requests. Submit AFROTC Form 16 for disenrollment actions to HQ AFROTC/RRFD via e-mail to afrotc.rrfd@us.af.mil.
+#### 7.7.{#7_7} Cadet Notification.
+
+Cadets must be counseled via AFROTC Form 16 on results of all disenrollment actions and waiver requests. Submit AFROTC Form 16 for disenrollment actions to HQ AFROTC/RRFD via e-mail to afrotc.rrfd@us.af.mil.
 

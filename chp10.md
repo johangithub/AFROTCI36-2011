@@ -1,4 +1,3 @@
-
 #### 10.1.{#10_1} General Information.
 
 ##### 10.1.1.{#10_1_1} The OPR for this chapter is AFROTC/DOS. The Cadet Awards and Decorations Program fosters morale, incentive, esprit de corps, and recognizes achievements of AFROTC cadets. See Figure 10.1 for awards order of precedence. Administrative procedures and specific nomination requirements are provided by AFROTC/DOS.
@@ -59,21 +58,29 @@
 
 ----
 
-#### 10.5.{#10_5} AFROTC-Sponsored Cadet Awards. These awards recognize individuals who achieve excellence in valor, meritorious service, marksmanship, academics, recruiting, drill team/honor/color guard or field training to include fitness, warrior spirit, honor flight and warrior flight. The awards consist of ribbons, medals, coins and/or congratulatory letters. A cadet may receive more than one award. Individual awards are established for specific purposes and are presented at various times during the year or as deemed appropriate by the commander. See paragraph 10.10 for specific categories, titles, and selection criteria.
+#### 10.5.{#10_5} AFROTC-Sponsored Cadet Awards.
+
+These awards recognize individuals who achieve excellence in valor, meritorious service, marksmanship, academics, recruiting, drill team/honor/color guard or field training to include fitness, warrior spirit, honor flight and warrior flight. The awards consist of ribbons, medals, coins and/or congratulatory letters. A cadet may receive more than one award. Individual awards are established for specific purposes and are presented at various times during the year or as deemed appropriate by the commander. See paragraph 10.10 for specific categories, titles, and selection criteria.
 
 ----
 
-#### 10.6.{#10_6} Organization-Sponsored Cadet Awards and Decorations. These awards recognize cadets for outstanding individual achievement in academics, military performance, leadership, athletics, extracurricular endeavors, or a combination thereof. Award winners are announced each year. The awards consist of medals, ribbons, and/or certificates. Awards are established for specific purposes and are presented at various times during the year or as deemed appropriate by the commander. See paragraph 10.12 for specific titles and selection criteria.
+#### 10.6.{#10_6} Organization-Sponsored Cadet Awards and Decorations.
+
+These awards recognize cadets for outstanding individual achievement in academics, military performance, leadership, athletics, extracurricular endeavors, or a combination thereof. Award winners are announced each year. The awards consist of medals, ribbons, and/or certificates. Awards are established for specific purposes and are presented at various times during the year or as deemed appropriate by the commander. See paragraph 10.12 for specific titles and selection criteria.
 
 ----
 
-#### 10.7.{#10_7} Organization-Sponsored Scholarship Awards. These awards recognize cadets who have distinguished themselves by outstanding performance and achievement in individual academic disciplines or specialized areas of interest. Specialty awards are established for specific purposes and are presented at various times during the year. These awards are under the general jurisdiction of the Awards Board with the responsible departments or activities providing specific administration. Specialty awards are limited to a monetary value established by each sponsoring organization and normally consist of a scholarship, plaque, or some other form of appropriate recognition. See paragraph 10.13 for titles, selection criteria, and presentation details.
+#### 10.7.{#10_7} Organization-Sponsored Scholarship Awards.
+
+These awards recognize cadets who have distinguished themselves by outstanding performance and achievement in individual academic disciplines or specialized areas of interest. Specialty awards are established for specific purposes and are presented at various times during the year. These awards are under the general jurisdiction of the Awards Board with the responsible departments or activities providing specific administration. Specialty awards are limited to a monetary value established by each sponsoring organization and normally consist of a scholarship, plaque, or some other form of appropriate recognition. See paragraph 10.13 for titles, selection criteria, and presentation details.
 
 ----
 
 #### 10.8.{#10_8} Valor Awards. (Selection Authority: AFROTC/CC)
 
-##### 10.8.1.{#10_8_1} Purpose. AFROTC Valor Awards are intended to recognize cadets who have distinguished themselves through voluntary acts of heroism. If awarded a valor award from more than one organization for the same act of heroism, wear only one. If AFROTC is one of those organizations, wear only the AFROTC valor award. Cadets are authorized to wear Valor awards on the AFROTC uniform, if awarded by an organization listed below:
+##### 10.8.1.{#10_8_1} Purpose.
+
+AFROTC Valor Awards are intended to recognize cadets who have distinguished themselves through voluntary acts of heroism. If awarded a valor award from more than one organization for the same act of heroism, wear only one. If AFROTC is one of those organizations, wear only the AFROTC valor award. Cadets are authorized to wear Valor awards on the AFROTC uniform, if awarded by an organization listed below:
 
 + 10.8.1.1. Awards for valor while performing active or reserve service in any branch of the United States Armed Forces prior to participating in AFROTC. If approved, wear above all AFROTC awards. These awards may include, but are not necessarily limited to, the Silver Star, Purple Heart, Airman's Medal (or other Service equivalent), any medal or ribbon with "V" device, and any other valor award.
 
@@ -93,7 +100,9 @@
 
 ----
 
-#### 10.9.{#10_9} FT Awards. (Selection Authority: FTU/CC). FT awards are those awards given for individual and flight (team) performance at FT. FT awards are based upon specific FT criteria reflected on the Field Training Performance Report (FTPR) or as determined by an FTU awards board. Refer to Field Training Manual for more information.
+#### 10.9.{#10_9} FT Awards. (Selection Authority: FTU/CC).
+
+FT awards are those awards given for individual and flight (team) performance at FT. FT awards are based upon specific FT criteria reflected on the Field Training Performance Report (FTPR) or as determined by an FTU awards board. Refer to Field Training Manual for more information.
 
 ----
 
@@ -128,11 +137,15 @@
 
 ----
 
-#### 10.11.{#10_11} United States Military Awards and Decorations. Other Military Ribbons. Unless specifically allowed in this chapter, no active or reserve duty ribbons are authorized for wear.
+#### 10.11.{#10_11} United States Military Awards and Decorations. Other Military Ribbons.
+
+Unless specifically allowed in this chapter, no active or reserve duty ribbons are authorized for wear.
 
 ----
 
-#### 10.12.{#10_12} Organization-Sponsored Cadet Awards, Decorations, and Scholarships. Numerous awards, decorations, and scholarships are available. Utilize AFROTC/DOS site for current awards, eligibility and guidance information.
+#### 10.12.{#10_12} Organization-Sponsored Cadet Awards, Decorations, and Scholarships.
+
+Numerous awards, decorations, and scholarships are available. Utilize AFROTC/DOS site for current awards, eligibility and guidance information.
 
 ----
 
@@ -143,10 +156,12 @@
 ##### 10.13.2.{#10_13_2} HIGH FLIGHT (HF) - Refers to the number one AFROTC detachment within a geographical region.
 
 Table 10.1. Team Categories.
-CATEGORY # OF CADETS
-Large Detachment Number required to represent 1/3 of detachments
-Medium Detachment Number required to represent 1/3 of detachments
-Small Detachment Number required to represent 1/3 of detachments
+
+|CATEGORY|# OF CADETS|
+|---|---|
+|Large Detachment |Number required to represent 1/3 of detachments|
+|Medium Detachment |Number required to represent 1/3 of detachments|
+|Small Detachment |Number required to represent 1/3 of detachments|
 
 + 10.13.2.1. The High Flight nomination consists of one typed page on the front side of an AF Form 1206, with the following categories: PRODUCTION; EDUCATION; RECRUITING AND RETENTION; UNIVERSITY AND PUBLIC RELATIONS; CADET ACTIVITIES.
 

@@ -1,9 +1,10 @@
-
 #### 4.1.{#4_1} General Information.
 
 ##### 4.1.1.{#4_1_1} This section provides eligibility and application requirements for AFROTC cadets. It covers entrance and eligibility requirements common to both the General Military Course (GMC) and the Professional Officer Course (POC). The OPR for this chapter is AFROTC/RRF.
 
-##### 4.1.2.{#4_1_2} Detachment personnel should be recruiting the best and brightest for the AF based on all AFROTC standards. Although this chapter outlines the minimum standards for AFROTC membership, Detachment Commanders have the authority to set higher standards to accommodate limited detachment resources at their schools. Meeting minimum qualifications does not necessarily justify keeping a cadet in AFROTC or supporting the cadet for an EA. Just because someone may meet the minimum standards does not necessarily mean they should be accepted for commission through AFROTC. For example, an applicant that has a CGPA of 2.5 during his sophomore year is less likely to compete well in PSP or complete the academic requirements outlined for AFROTC cadets. It may be prudent to dismiss these cadets sooner rather than providing false hope when historical data shows they will not complete the program. Another example is PFA scores. Some Detachment Commanders have set a higher PFA standard than the minimum to qualify for submission for an EA since PFA scores can decrease by several points during summer FT at Maxwell AFB.
+##### 4.1.2.{#4_1_2} Detachment personnel should be recruiting the best and brightest for the AF based on all AFROTC standards.
+
+Although this chapter outlines the minimum standards for AFROTC membership, Detachment Commanders have the authority to set higher standards to accommodate limited detachment resources at their schools. Meeting minimum qualifications does not necessarily justify keeping a cadet in AFROTC or supporting the cadet for an EA. Just because someone may meet the minimum standards does not necessarily mean they should be accepted for commission through AFROTC. For example, an applicant that has a CGPA of 2.5 during his sophomore year is less likely to compete well in PSP or complete the academic requirements outlined for AFROTC cadets. It may be prudent to dismiss these cadets sooner rather than providing false hope when historical data shows they will not complete the program. Another example is PFA scores. Some Detachment Commanders have set a higher PFA standard than the minimum to qualify for submission for an EA since PFA scores can decrease by several points during summer FT at Maxwell AFB.
 
 ----
 
@@ -19,7 +20,9 @@
 
 + 4.2.2.3. Counsel these cadets via AFROTC Form 16 that there is no guarantee that they will finish a graduate degree. They will commission as soon as AS classes and FT are completed.
 
-##### 4.2.3.{#4_2_3} Students seeking to enter AFROTC to complete a second undergraduate degree or a graduate degree must have approval from AFROTC/RR for program entry. Major considerations for approval by AFROTC/RR will be majoring in critical technical majors identified on the restricted website, O&D criteria (reference Figure 4.1) and 3.0 CGPA. AFROTC will not accept any applicant who has already completed a graduate degree. Cadets entering AFROTC with a previous degree are not eligible for scholarship monies unless they are pursuing a hard-to-fill accession degree requirement as determined by HQ AFROTC/RR. Funding for these degrees must be approved by AFROTC/RRF via an AFROTC Form 22 package.
+##### 4.2.3.{#4_2_3} Students seeking to enter AFROTC to complete a second undergraduate degree or a graduate degree must have approval from AFROTC/RR for program entry.
+
+Major considerations for approval by AFROTC/RR will be majoring in critical technical majors identified on the restricted website, O&D criteria (reference Figure 4.1) and 3.0 CGPA. AFROTC will not accept any applicant who has already completed a graduate degree. Cadets entering AFROTC with a previous degree are not eligible for scholarship monies unless they are pursuing a hard-to-fill accession degree requirement as determined by HQ AFROTC/RR. Funding for these degrees must be approved by AFROTC/RRF via an AFROTC Form 22 package.
 
 ##### 4.2.4.{#4_2_4} Each individual must:
 
@@ -29,7 +32,9 @@
 
 + 4.2.4.3. Be age 14 or older (Reference paragraph 4.4. for maximum age limits).
 
-##### 4.2.5.{#4_2_5} GPA Requirements. All previous college coursework attempted must be used to calculate the ROTC CGPA. Cadets must have a CGPA of 2.0 or greater to join AFROTC. Reference Attachment 12 for GPA minimums for contracting, scholarship nomination and activation, and the POC Selection Process (PSP).
+##### 4.2.5.{#4_2_5} GPA Requirements.
+
+All previous college coursework attempted must be used to calculate the ROTC CGPA. Cadets must have a CGPA of 2.0 or greater to join AFROTC. Reference Attachment 12 for GPA minimums for contracting, scholarship nomination and activation, and the POC Selection Process (PSP).
 
 ##### 4.2.6.{#4_2_6} Family members or relatives of AFROTC cadre are not allowed to enroll at the detachment where the cadre member is assigned.
 
@@ -99,11 +104,14 @@ NOTE: For all cadets in the enlisted commissioning programs, the AF Form 56, App
 
 ##### 4.4.4.{#4_4_4} When submitting cadets for enrollment allocations, ensure that they will meet the age limits IAW paragraphs 4.4.1 and/or 4.4.2.
 
-##### 4.4.5.{#4_4_5} Age waivers non-rated are restricted to high quality cadets. Detachment Commanders may waive the maximum age restriction for applicants who meet one of the academic Outstanding and Deserving (O&D) criteria (see Figure 4.1) and can be commissioned prior to age 34. Submit a WINGS trouble ticket for waiver updates within Detachment Commander authority. HQ AFROTC/RRF may waive those applicants who do not meet the O&D criteria and can be commissioned prior to age 34, however waivers will only be approved for exceptional candidates. Submit age waiver requests via AFROTC Form 22.
+##### 4.4.5.{#4_4_5} Age waivers non-rated are restricted to high quality cadets.
+
+Detachment Commanders may waive the maximum age restriction for applicants who meet one of the academic Outstanding and Deserving (O&D) criteria (see Figure 4.1) and can be commissioned prior to age 34. Submit a WINGS trouble ticket for waiver updates within Detachment Commander authority. HQ AFROTC/RRF may waive those applicants who do not meet the O&D criteria and can be commissioned prior to age 34, however waivers will only be approved for exceptional candidates. Submit age waiver requests via AFROTC Form 22.
 
 + 4.4.5.1. HQ AFPC may waive the maximum age restriction for individuals scheduled to commission after age 34 but prior to age 35 (commissioning only). Title 10 USC, Section 8355 prohibits commissioning or active duty entrance after age 35, except for nurses, who can commission up to age 42.
 
 Figure 4.1. Outstanding and Deserving Profile Minimums.
+
 |Factor | Minimum Standards of Performance|
 |---|---|
 |AFOQT Academic Aptitude| 62|
@@ -116,7 +124,9 @@ Figure 4.1. Outstanding and Deserving Profile Minimums.
 
 ##### 4.5.1.{#4_5_1} Officer candidates must be morally and financially sound. When there are questions concerning an applicant's suitability, the Detachment Commander may consider waiver of the prior unsuitable incident or request a waiver through AFROTC/RRF IAW the guidance below. The procedures and documents listed below will facilitate administrative processing of involvements and provide tools for evaluating character traits for officer candidates. AFROTC cadets are not subject to UCMJ jurisdiction, therefore Article 31 of the UCMJ does not apply nor does the constitutional prohibition against compelled self-incrimination for the purpose of entry into the program. AFROTC cadets will continue to use the AFROTC Form 35 and AFROTC Form 4.
 
-##### 4.5.2.{#4_5_2} Civil Involvement Guidance for AFIT, AECP, and NECP students. AFIT, AECP and NECP students are not cadets. They are active duty members and fall under UCMJ authority. Under Article 31, UCMJ, compulsory self-incrimination is prohibited. No military member may interrogate, or request any statement from a person suspected of an offense unless the suspect is advised of their Article 31 rights and waives those rights. Investigative actions for AECP and NECP students will mirror those for any other active duty member. They may not be required to report civil involvements on an AFROTC Form 35, Certification of Involvements with Civil, Military, or School Authorities/Law Enforcement Officials, and AFROTC Form 4, Affidavit Civil Involvement, because such reporting requirements violate Article 31, UCMJ. Although they fall under UCMJ authority, they can be dismissed from the AECP/NECP program for failing to meet academic requirements, active duty requirements or commissioning standards.
+##### 4.5.2.{#4_5_2} Civil Involvement Guidance for AFIT, AECP, and NECP students.
+
+AFIT, AECP and NECP students are not cadets. They are active duty members and fall under UCMJ authority. Under Article 31, UCMJ, compulsory self-incrimination is prohibited. No military member may interrogate, or request any statement from a person suspected of an offense unless the suspect is advised of their Article 31 rights and waives those rights. Investigative actions for AECP and NECP students will mirror those for any other active duty member. They may not be required to report civil involvements on an AFROTC Form 35, Certification of Involvements with Civil, Military, or School Authorities/Law Enforcement Officials, and AFROTC Form 4, Affidavit Civil Involvement, because such reporting requirements violate Article 31, UCMJ. Although they fall under UCMJ authority, they can be dismissed from the AECP/NECP program for failing to meet academic requirements, active duty requirements or commissioning standards.
 
 ##### 4.5.3.{#4_5_3} The AFROTC Form 35 is the basic document used to record cadet civil involvements.
 
@@ -142,7 +152,9 @@ Figure 4.1. Outstanding and Deserving Profile Minimums.
 
 + 4.5.4.2. If a cadet failed to report an involvement in an effort to deceive detachment personnel, this is considered an integrity violation, and the cadet must be investigated for disenrollment. Have the cadet enter the involvement on the AFROTC Form 35. If the cadet is a non-contract cadet, have the cadet prepare an AFROTC Form 4. A contract cadet will have the opportunity to provide a statement during the disenrollment investigation process.
 
-##### 4.5.5.{#4_5_5} AFROTC Form 4, Affidavit Civil Involvement. When required, the individual must prepare an AFROTC Form 4 based on the involvement originally cited by the law enforcement agency, not the lesser offense, if the charge is reduced. AFROTC Form 4 is used to get an account of the what, when, how and where of any civil involvement. Multiple involvements may be explained in a single affidavit; however, each separate charge must be clearly addressed. Affidavits must be subscribed and sworn to before a detachment officer or another official authorized to administer oaths and filed in the cadet's UPRG. Affidavits are required to explain any involvement listed in Attachment 13, Category 4 or any civil involvement that requires an AFROTC/RRF waiver.
+##### 4.5.5.{#4_5_5} AFROTC Form 4, Affidavit Civil Involvement.
+
+When required, the individual must prepare an AFROTC Form 4 based on the involvement originally cited by the law enforcement agency, not the lesser offense, if the charge is reduced. AFROTC Form 4 is used to get an account of the what, when, how and where of any civil involvement. Multiple involvements may be explained in a single affidavit; however, each separate charge must be clearly addressed. Affidavits must be subscribed and sworn to before a detachment officer or another official authorized to administer oaths and filed in the cadet's UPRG. Affidavits are required to explain any involvement listed in Attachment 13, Category 4 or any civil involvement that requires an AFROTC/RRF waiver.
 
 + 4.5.5.1. For alcohol-related incidents, the AFROTC Form 4 must include the amount consumed, over what period of time, the time between last consumption and the civil involvement, field sobriety test results, blood alcohol content, breathalyzer results, etc.
 
@@ -184,13 +196,19 @@ Figure 4.1. Outstanding and Deserving Profile Minimums.
 
 ##### 4.6.1.{#4_6_1} AFROTC enforces a strict alcohol use and abuse policy.
 
-##### 4.6.2.{#4_6_2} Unlawful possession or consumption of alcohol; including Minor in Possession (MIP). Detachment Commanders may waive ONE incident of unlawful possession or consumption to include "Minor in Possession," or its local equivalent that was the result of a civil involvement for GMC and POC cadets. Waiver for this incident must not involve any other charge, like using a false ID to obtain the alcohol. A CE MUST be issued with the Detachment Commander waiver if the event occurred while the cadet was contracted in the AFROTC program. If the event occurred prior to entry in the program, no CE is warranted but the Detachment Commander can grant the appropriate waiver. The waiver of a pre-AFROTC MIP charge counts toward the one incident waiverable by the Detachment Commander. All waivers must be appropriately documented on the AFROTC Form 35 and the cadet must be counseled via the AFROTC Form 16 that future alcohol- related incidents will result in investigation for disenrollment or dismissal from AFROTC if a waiver is not granted by AFROTC/RRF. (Reference paragraph 4.5.5.1, Attachment 13 and Table 4.2) Cadets (GMC or POC) who self-report a minor in possession that did not result in a civil involvement will receive a CE and stern warning that any future alcohol-related incidents will result in dismissal or investigation for disenrollment; Detachment Commander waiver is also required.
+##### 4.6.2.{#4_6_2} Unlawful possession or consumption of alcohol; including Minor in Possession (MIP).
+
+Detachment Commanders may waive ONE incident of unlawful possession or consumption to include "Minor in Possession," or its local equivalent that was the result of a civil involvement for GMC and POC cadets. Waiver for this incident must not involve any other charge, like using a false ID to obtain the alcohol. A CE MUST be issued with the Detachment Commander waiver if the event occurred while the cadet was contracted in the AFROTC program. If the event occurred prior to entry in the program, no CE is warranted but the Detachment Commander can grant the appropriate waiver. The waiver of a pre-AFROTC MIP charge counts toward the one incident waiverable by the Detachment Commander. All waivers must be appropriately documented on the AFROTC Form 35 and the cadet must be counseled via the AFROTC Form 16 that future alcohol- related incidents will result in investigation for disenrollment or dismissal from AFROTC if a waiver is not granted by AFROTC/RRF. (Reference paragraph 4.5.5.1, Attachment 13 and Table 4.2) Cadets (GMC or POC) who self-report a minor in possession that did not result in a civil involvement will receive a CE and stern warning that any future alcohol-related incidents will result in dismissal or investigation for disenrollment; Detachment Commander waiver is also required.
 
 ##### 4.6.3.{#4_6_3} All alcohol-related incidents, other than those described in paragraph 4.6.2, require a AFROTC/RRF waiver.
 
-##### 4.6.4.{#4_6_4} Purchase of alcohol for a minor. The purchase of alcohol for a minor, supplying alcohol to a minor, or taking no action to stop the supplying of alcohol to a minor in situations under their control (example: hosting party at their house/apartment, bringing alcohol to tailgate and not controlling it thereby allowing minors to obtain alcohol) will require an AFROTC/RRF waiver. Issue a CE and submit waiver request to HQ AFROTC/RRFP. Should the waiver not be approved, non- contract cadets will be released from AFROTC and contract cadets will be investigated for disenrollment.
+##### 4.6.4.{#4_6_4} Purchase of alcohol for a minor. 
 
-##### 4.6.5.{#4_6_5} Alcohol Related Incidents. When considering the severity of any alcohol-related incident, the following circumstances WILL NOT be waived.
+The purchase of alcohol for a minor, supplying alcohol to a minor, or taking no action to stop the supplying of alcohol to a minor in situations under their control (example: hosting party at their house/apartment, bringing alcohol to tailgate and not controlling it thereby allowing minors to obtain alcohol) will require an AFROTC/RRF waiver. Issue a CE and submit waiver request to HQ AFROTC/RRFP. Should the waiver not be approved, non- contract cadets will be released from AFROTC and contract cadets will be investigated for disenrollment.
+
+##### 4.6.5.{#4_6_5} Alcohol Related Incidents.
+
+When considering the severity of any alcohol-related incident, the following circumstances WILL NOT be waived.
 
 + 4.6.5.1. Excessive Blood Alcohol Content (BAC). AFROTC policy defines excessive BAC as .12 or higher. If the individual refused to submit to a breathalyzer test, BAC level will be based on information provided in the incident report.
 
@@ -204,9 +222,13 @@ Figure 4.1. Outstanding and Deserving Profile Minimums.
 
 ##### 4.6.6.{#4_6_6} Multiple alcohol-related incidents will be reviewed very closely when considering waiver requests. Multiple events that show an increase in alcohol use/abuse will not be waived. Alcohol incidents prior to coming to AFROTC will be considered in making the waiver decisions for multiple alcohol-related incidents, as well as those occurring while members of AFROTC. For example, if a Detachment Commander has waived a MIP charge and the cadet later receives a DUI, a waiver is not warranted as the cadet has shown poor judgment with respect to alcohol and has not learned from the first event.
 
-##### 4.6.7.{#4_6_7} Detachment Commanders must look closely at the charge, corroboration, and cadet statement. On a few occasions, authorities may charge an individual with a higher/lesser charge which will not include the charge of an alcohol-related incident. However, when reading the corroboration or student statement the fact that the individual was under the influence of alcohol can be determined. This is considered an alcohol-related incident for AFROTC waiver consideration. List it as such on the AFROTC Form 35. For example, a cadet may be charged with trespassing. This would be the charge initially listed on the A FROT C Form 35. After obtaining corroboration, the police report says the individual was also inebriated. This event is now considered an alcohol- related incident for waiver consideration and must be identified as such on the AFROTC Form 35, even if waiverable by the Detachment Commander.
+##### 4.6.7.{#4_6_7} Detachment Commanders must look closely at the charge, corroboration, and cadet statement.
 
-##### 4.6.8.{#4_6_8} Detachment Commanders may waive only those alcohol-related involvements listed in Attachment 13. Detachment Commanders may deny waiver consideration or submit waiver requests to AFROTC/RRFA via AFROTC Form 22, as they deem appropriate (reference AF Form 2030, definition of terms section, for a description of alcohol abuse).
+On a few occasions, authorities may charge an individual with a higher/lesser charge which will not include the charge of an alcohol-related incident. However, when reading the corroboration or student statement the fact that the individual was under the influence of alcohol can be determined. This is considered an alcohol-related incident for AFROTC waiver consideration. List it as such on the AFROTC Form 35. For example, a cadet may be charged with trespassing. This would be the charge initially listed on the A FROT C Form 35. After obtaining corroboration, the police report says the individual was also inebriated. This event is now considered an alcohol- related incident for waiver consideration and must be identified as such on the AFROTC Form 35, even if waiverable by the Detachment Commander.
+
+##### 4.6.8.{#4_6_8} Detachment Commanders may waive only those alcohol-related involvements listed in Attachment 13.
+
+Detachment Commanders may deny waiver consideration or submit waiver requests to AFROTC/RRFA via AFROTC Form 22, as they deem appropriate (reference AF Form 2030, definition of terms section, for a description of alcohol abuse).
 
 ##### 4.6.9.{#4_6_9} Voluntarily Reported Alcohol Abuse. Whenever a cadet voluntarily reports chronic alcohol abuse, independent of an involvement that must be recorded on an AFROTC Form 35, determine whether to dismiss (non-contract) or investigate for disenrollment. Do your best to help them with their problem, starting with counseling services available at the university.
 
@@ -222,15 +244,21 @@ Figure 4.1. Outstanding and Deserving Profile Minimums.
 
 + 4.7.1.2. Ensure the applicant understands the importance of listing required information when completing the AF Form 2030. Revealing pre-orientation drug use later, even if it were originally waiverable, may result in disenrollment or dismissal from AFROTC based on fraudulent entry.
 
-##### 4.7.2.{#4_7_2} Drug Demand Reduction Program (DDRP). HQ AFROTC executes the Department of the Air Force's Zero Tolerance policy on illicit drug use and will enhance cadets' training experience by introducing them to the DDRP. Therefore, all cadets pursuing a commission are subject to random drug testing any time after program entry during the school year or at FT. Accordingly, they are required to sign a DDRP MOU (Attachment 11) upon program entry. NOTE: When contracting and new student orientation occur on the same day, the AF Form 1056 is the source document for the DDRP program and the MOU is not required.
+##### 4.7.2.{#4_7_2} Drug Demand Reduction Program (DDRP).
+
+HQ AFROTC executes the Department of the Air Force's Zero Tolerance policy on illicit drug use and will enhance cadets' training experience by introducing them to the DDRP. Therefore, all cadets pursuing a commission are subject to random drug testing any time after program entry during the school year or at FT. Accordingly, they are required to sign a DDRP MOU (Attachment 11) upon program entry. NOTE: When contracting and new student orientation occur on the same day, the AF Form 1056 is the source document for the DDRP program and the MOU is not required.
 
 + 4.7.2.1. Failure to Comply/Report. Unless an authorized excusal exists, failure to comply or report for a mandatory urinalysis test will be considered an unauthorized absence and will result in individual command-directed screening or dismissal/disenrollment from the AFROTC program. Additionally, administrative action in the form of a CE may result.
 
 + 4.7.2.2. Positive Testing. Any individual testing positive on a urinalysis test will be investigated for disenrollment or dismissed from the AFROTC Program IAW Chapter 11 of this instruction. All appeals will follow normal guidance.
 
-##### 4.7.3.{#4_7_3} AF Form 2030 Initial Preparation. HSSP applicants will complete the AF Form 2030 during their interview. The AF Form 2030 will be maintained in WINGS and forwarded to RRUC with the interview.
+##### 4.7.3.{#4_7_3} AF Form 2030 Initial Preparation.
 
-##### 4.7.4.{#4_7_4} Evaluation of Drug Use or Abuse. When an applicant has indicated any illicit drug usage on the AF Form 2030, the following procedures apply:
+HSSP applicants will complete the AF Form 2030 during their interview. The AF Form 2030 will be maintained in WINGS and forwarded to RRUC with the interview.
+
+##### 4.7.4.{#4_7_4} Evaluation of Drug Use or Abuse.
+
+When an applicant has indicated any illicit drug usage on the AF Form 2030, the following procedures apply:
 
 + 4.7.4.1. Individual Evaluation Request. Have the applicant provide a handwritten statement in the Remarks Section of the AF Form 2030 concerning the circumstances of each drug use occurrence. If necessary, continue on a separate page and attach it to the cadet's AF Form 2030 that will be filed in the UPRG. On the top and bottom of each page of the handwritten statement, print or stamp "FOR OFFICIAL USE ONLY," and treat as Privacy Act information.
 
@@ -308,7 +336,9 @@ Figure 4.1. Outstanding and Deserving Profile Minimums.
 
 ##### 4.9.1.{#4_9_1} For a definition of "family member," refer to AFI 36-2908, Family Care Plans.
 
-##### 4.9.2.{#4_9_2} AFROTC Applicants or non-contract cadets with family members incapable of self- care. AFI 36-2011, AFROTC Program, requires all contracted members to meet AF enlistment standards in AFI 36-2002, Regular Air Force and Special Category Accessions.
+##### 4.9.2.{#4_9_2} AFROTC Applicants or non-contract cadets with family members incapable of self- care.
+
+AFI 36-2011, AFROTC Program, requires all contracted members to meet AF enlistment standards in AFI 36-2002, Regular Air Force and Special Category Accessions.
 
 + 4.9.2.1. Enlistment- An AFROTC cadet who has a dependent incapable of self-care and is single, divorced, separated or married to a military spouse, must have an approved Family Care Plan completed IAW AFI 36-2908, Family Care Plans, before enlistment.
 
@@ -320,7 +350,9 @@ Figure 4.1. Outstanding and Deserving Profile Minimums.
 
 + 4.9.2.3. Waiverable. A waiver may be considered for an applicant wishing to enlist in pay grade E-3 or lower who is married to a civilian spouse, has two or more family members incapable of self-care, and is normally ineligible for enlistment. Waiver authority is AFROTC/RR.
 
-##### 4.9.3.{#4_9_3} Detachment Commanders are authorized to approve Family Care Plans in accordance with paragraph 4.9.2. Detachment Commanders must counsel the contract cadet according to AFI 36-2908 and ensure the cadet fully understands the Air Force policy on the relationship between family care responsibilities and accomplishment of military duties, both in peacetime and during contingency operations. Ensure that the Family Care Plan is reasonable and usable. For example, listing another cadet as a care provider is not reasonable since the other cadet is also required to attend AS classes and LLab at the same time the cadet with dependent(s) must attend.
+##### 4.9.3.{#4_9_3} Detachment Commanders are authorized to approve Family Care Plans in accordance with paragraph 4.9.2.
+
+Detachment Commanders must counsel the contract cadet according to AFI 36-2908 and ensure the cadet fully understands the Air Force policy on the relationship between family care responsibilities and accomplishment of military duties, both in peacetime and during contingency operations. Ensure that the Family Care Plan is reasonable and usable. For example, listing another cadet as a care provider is not reasonable since the other cadet is also required to attend AS classes and LLab at the same time the cadet with dependent(s) must attend.
 
 + 4.9.3.1. Cadets will complete and maintain an AF Form 357, Family Care Certification IAW AFI 36-2908. The AF Form 357 must reflect time spent in AFROTC. Additionally, cadets must annotate the dependency situation on the AF Form 3010 (signed/dated by the cadet and an AFROTC representative). NOTE: Attachment 14, Statement of Understanding, must be recertified by cadet and an AFROTC representative at time of enlistment (or any time change in dependency status occurs).
 
@@ -346,17 +378,27 @@ Figure 4.1. Outstanding and Deserving Profile Minimums.
 
 		+ 4.10.3.1.1.2. Cadet will be required to write a memorandum indicating why he/she should be allowed an opportunity for a second retest.
 
-##### 4.10.4.{#4_10_4} Scholarships. Scholarships previously activated are not affected by first-time AFOQT verbal and/or quantitative failures. Second-time AFOQT verbal and/or quantitative failures will result in scholarship suspension.
+##### 4.10.4.{#4_10_4} Scholarships.
 
-##### 4.10.5.{#4_10_5} POC Selection Process (PSP). Failing the AFOQT is not a disqualifier for the POC Selection Process (PSP), but cadets awarded an EA will not attend FTU (they will be deferred) or enlist (contract) until AFOQT qualified. Cadets must have AFOQT scores to be eligible to compete for PSP.
+Scholarships previously activated are not affected by first-time AFOQT verbal and/or quantitative failures. Second-time AFOQT verbal and/or quantitative failures will result in scholarship suspension.
+
+##### 4.10.5.{#4_10_5} POC Selection Process (PSP).
+
+Failing the AFOQT is not a disqualifier for the POC Selection Process (PSP), but cadets awarded an EA will not attend FTU (they will be deferred) or enlist (contract) until AFOQT qualified. Cadets must have AFOQT scores to be eligible to compete for PSP.
 
 + 4.10.5.1. Exception: Cadets contracted as freshmen, i.e. before taking the AFOQT, are already enlisted, but will not be able to attend FTU until AFOQT qualified.
 
-##### 4.10.6.{#4_10_6} ICSP/CICS Nomination and Contracting/Enlistment. Cadets who achieve failing verbal or quantitative AFOQT scores are ineligible for scholarship nomination, award, activation or contracting into the POC. Cadets in this situation, upon POC entry, will be placed in pursuing status for one semester. Cadets placed in pursuing status for failing AFOQT scores must pass the AFOQT NLT the 31 December of the AS300 year or be "Det Dropped", unless a waiver is granted.
+##### 4.10.6.{#4_10_6} ICSP/CICS Nomination and Contracting/Enlistment.
 
-##### 4.10.7.{#4_10_7} Contracted cadets. Contract cadets who do not pass the AFOQT prior to 31 December of their AS300 year must be investigated for disenrollment and are subject to recoupment or call to EAD.
+Cadets who achieve failing verbal or quantitative AFOQT scores are ineligible for scholarship nomination, award, activation or contracting into the POC. Cadets in this situation, upon POC entry, will be placed in pursuing status for one semester. Cadets placed in pursuing status for failing AFOQT scores must pass the AFOQT NLT the 31 December of the AS300 year or be "Det Dropped", unless a waiver is granted.
 
-##### 4.10.8.{#4_10_8} Re-testing for Rated Categorization. Historical data show a significant increase in the pilot composite score (10-25 percentile points) for cadets who re-took the AFOQT prior to the rated categorization board. Based on these results, AFROTC/RR authorizes a voluntary retest of the AFOQT for cadets who desire rated categorization and who have only taken the AFOQT once. Retesting of these cadets is highly encouraged but not mandatory.
+##### 4.10.7.{#4_10_7} Contracted cadets.
+
+Contract cadets who do not pass the AFOQT prior to 31 December of their AS300 year must be investigated for disenrollment and are subject to recoupment or call to EAD.
+
+##### 4.10.8.{#4_10_8} Re-testing for Rated Categorization.
+
+Historical data show a significant increase in the pilot composite score (10-25 percentile points) for cadets who re-took the AFOQT prior to the rated categorization board. Based on these results, AFROTC/RR authorizes a voluntary retest of the AFOQT for cadets who desire rated categorization and who have only taken the AFOQT once. Retesting of these cadets is highly encouraged but not mandatory.
 
 + 4.10.8.1. For cadets who barely passed the verbal or quantitative portions of the AFOQT the first time place their qualification at risk if they retake the AFOQT. Taking this test a second time to improve their rated scores opens up the possibility that the AFOQT verbal or quantitative score might drop below the required verbal or quantitative minimums for program entry. Counsel cadets on the risks before allowing the retest.
 
@@ -364,7 +406,9 @@ Figure 4.1. Outstanding and Deserving Profile Minimums.
 
 #### 4.11.{#4_11} Special Testing Requirements for Non-Native English-Speaking Cadets
 
-##### 4.11.1.{#4_11_1} Cadets must demonstrate adequate English proficiency before entering the POC and before commissioning. Once a cadet passes the AFOQT, no further language comprehension or proficiency tests are required. If the AFOQT is not passed after two attempts, cadets must take the Defense Language Institute's (DLI) English Comprehension Level (ECL) Test and the Oral Proficiency Interview (OPI) and meet the criteria in Figure 4.2. Cadets must attempt the AFOQT twice before being administered the ECL and OPI. The ECL/OPI option applies ONLY to the Verbal portion of the AFOQT and cannot be used as a substitute for failing scores on the Quantitative portion of the test. Additionally, cadets who have not met the criteria in Figure 4.2 by 90 days prior to commissioning will be investigated for disenrollment.
+##### 4.11.1.{#4_11_1} Cadets must demonstrate adequate English proficiency before entering the POC and before commissioning.
+
+Once a cadet passes the AFOQT, no further language comprehension or proficiency tests are required. If the AFOQT is not passed after two attempts, cadets must take the Defense Language Institute's (DLI) English Comprehension Level (ECL) Test and the Oral Proficiency Interview (OPI) and meet the criteria in Figure 4.2. Cadets must attempt the AFOQT twice before being administered the ECL and OPI. The ECL/OPI option applies ONLY to the Verbal portion of the AFOQT and cannot be used as a substitute for failing scores on the Quantitative portion of the test. Additionally, cadets who have not met the criteria in Figure 4.2 by 90 days prior to commissioning will be investigated for disenrollment.
 
 Figure 4.2. Minimum English Comprehension Level (ECL)/Oral Proficiency Interview (OPI) Scores if AFOQT has not been passed.
  POC Entry Commissioning
@@ -499,7 +543,9 @@ OPI 1+/1+ 2+/2+
 
 ----
 
-#### 4.17.{#4_17} Military Status. AFROTC membership does not confer active duty military status upon cadets. While contract cadets are inactive reservists in the Individual Ready Reserve, they are in civilian status and are not subject to the provisions of the Uniform Code of Military Justice. Status as cadets and reservists can make cadets eligible for certain benefits, such as limited use of morale, welfare, and recreation activities, reimbursement for travel to and from some AFROTC training events, and Air Force-funded medical care for injuries related to AFROTC training. It does not make the cadet eligible for legal services, including support in disenrollment investigations.
+#### 4.17.{#4_17} Military Status. 
+
+AFROTC membership does not confer active duty military status upon cadets. While contract cadets are inactive reservists in the Individual Ready Reserve, they are in civilian status and are not subject to the provisions of the Uniform Code of Military Justice. Status as cadets and reservists can make cadets eligible for certain benefits, such as limited use of morale, welfare, and recreation activities, reimbursement for travel to and from some AFROTC training events, and Air Force-funded medical care for injuries related to AFROTC training. It does not make the cadet eligible for legal services, including support in disenrollment investigations.
 
 ----
 
@@ -605,7 +651,9 @@ OPI 1+/1+ 2+/2+
 
 ----
 
-#### 4.22.{#4_22} Professional Officer Course (POC). The POC consists of AS300 and AS400 classes and LLAB. The POC is the third and fourth years of the 4-year program or the first and second years of the 2-year program. The POC entry date is the first day of institutional classes at the beginning of the POC. Update POC entry date retroactively to the first day of institutional classes in the term the cadet began participating in AS300 or AS400 classes. NOTE: Cadets properly deferred for FT may be eligible for enlistment if otherwise qualified and should wear the AS200 rank until FT is completed.
+#### 4.22.{#4_22} Professional Officer Course (POC). 
+
+The POC consists of AS300 and AS400 classes and LLAB. The POC is the third and fourth years of the 4-year program or the first and second years of the 2-year program. The POC entry date is the first day of institutional classes at the beginning of the POC. Update POC entry date retroactively to the first day of institutional classes in the term the cadet began participating in AS300 or AS400 classes. NOTE: Cadets properly deferred for FT may be eligible for enlistment if otherwise qualified and should wear the AS200 rank until FT is completed.
 
 ----
 
@@ -755,8 +803,7 @@ OPI 1+/1+ 2+/2+
 
 + 4.29.2.4. If the transfer moves the DOC/DOG into a different fiscal year, the losing Detachment Commander must request approval of the change and the transfer via an AFROTC Form 22 package to AFROTC/RRFA.
 
-##### 4.292.5.{#4_292_5} If a transfer is approved, an activated scholarship will be capped at the tuition rate of the lower cost school regardless of the scholarship type. (For example, if a cadet starts at a school with tuition of $5,000 per year and then transfers to one with tuition at
-$12,000 per year, the scholarship is capped at $5,000 per year). Exception: If the transfer involves a GMC scholarship selectee, he/she may activate a scholarship while attending a 2-year junior or community college, provided the following:
++ 4.29.2.5.{#4_292_5} If a transfer is approved, an activated scholarship will be capped at the tuition rate of the lower cost school regardless of the scholarship type. (For example, if a cadet starts at a school with tuition of $5,000 per year and then transfers to one with tuition at $12,000 per year, the scholarship is capped at $5,000 per year). Exception: If the transfer involves a GMC scholarship selectee, he/she may activate a scholarship while attending a 2-year junior or community college, provided the following:
 
 	+ 4.29.2.5.1. The GMC selectee's academic plan must reflect attendance at both schools. The academic program must be authorized under a formal matriculation agreement (frequently known as "2+2" agreements) between the community/junior college and the senior institution and be listed in the catalog of either institution as a transfer program. Under these agreements, all courses from the community/junior college transfer to the senior institution and meet degree or graduation requirements for a 4-year degree. In addition, the community/junior college must have a cross- town or consortium agreement with AFROTC and the senior institution.
 
@@ -794,8 +841,7 @@ $12,000 per year, the scholarship is capped at $5,000 per year). Exception: If t
 
 	+ 4.29.4.1.1. Transfer from the AROTC or NROTC to AFROTC. A contracted AROTC or NROTC cadet may transfer to AFROTC subject to the written approval of the PMS or PNS and the AFROTC Detachment Commander. Prior to transfer, forward requests for an EA via AFROTC Form 22 to AFROTC/RRFA and include a copy of the conditional release from NROTC or AROTC.
 
-	+ 4.29.4.1.2. Transfer from AFROTC to AROTC, NROTC, or USAFA.
-AFROTC/RRF must approve conditional release of contract cadets to AROTC and NROTC. Submit requests via AFROTC Form 22 to HQ AFROTC/RRFP and include the written acceptance from the PMS or PNS. If HQ AFROTC approves the conditional release, the cadet may enlist in AROTC or NROTC. Contract cadets accepted to the USAFA are automatically approved for conditional release from AFROTC pending enlistment at USAFA. Upon verification of enlistment, the following actions are required:
+	+ 4.29.4.1.2. Transfer from AFROTC to AROTC, NROTC, or USAFA. AFROTC/RRF must approve conditional release of contract cadets to AROTC and NROTC. Submit requests via AFROTC Form 22 to HQ AFROTC/RRFP and include the written acceptance from the PMS or PNS. If HQ AFROTC approves the conditional release, the cadet may enlist in AROTC or NROTC. Contract cadets accepted to the USAFA are automatically approved for conditional release from AFROTC pending enlistment at USAFA. Upon verification of enlistment, the following actions are required:
 
 		+ 4.29.4.1.2.1. Complete the non-investigative disenrollment case file in accordance with Chapter 11.
 
@@ -891,7 +937,9 @@ AFROTC/RRF must approve conditional release of contract cadets to AROTC and NROT
 
 ----
 
-#### 4.31.{#4_31} Scholarship Retention Standards. Cadets must maintain scholarship retention standards in order to be in good academic standing in AFROTC. These standards include, but are not limited to, minimum TGPA of 2.5 and full-time student status. Any course failures, or course grades which require retaking the course for degree credit are handled in accordance with Table 4.2. NOTE: Except where otherwise indicated, these standards also apply for summer terms and mini-sessions when funded by AFROTC.
+#### 4.31.{#4_31} Scholarship Retention Standards.
+
+Cadets must maintain scholarship retention standards in order to be in good academic standing in AFROTC. These standards include, but are not limited to, minimum TGPA of 2.5 and full-time student status. Any course failures, or course grades which require retaking the course for degree credit are handled in accordance with Table 4.2. NOTE: Except where otherwise indicated, these standards also apply for summer terms and mini-sessions when funded by AFROTC.
 
 ----
 
